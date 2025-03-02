@@ -1,0 +1,3650 @@
+{
+    "productRacs": {
+        "Revolving Credit Card platinum Cards Mokafaa - MRCC": {
+            "Gender": {
+                "Target Gender": "Both Genders"
+            },
+            "Saudi National": {
+                "Salary Transfer": {
+                    "Government": {
+                        "PDBR": {
+                            "PDBR": 0.45
+                        },
+                        "SIMAH Check": {
+                            "NonWriteOff_ProductsStatus": [
+                                "A",
+                                "S"
+                            ],
+                            "WriteOff_NonFinancial_DefaultStatus": [
+                                "PP",
+                                "OS"
+                            ],
+                            "WriteOff_OtherFinancial_DefaultStatus": [
+                                "PP",
+                                "OS"
+                            ],
+                            "NonWriteOff_OtherFinancial_Products": [
+                                "ADFL",
+                                "AMTG",
+                                "AQAR",
+                                "CDC",
+                                "CHC",
+                                "CHCK",
+                                "CRC",
+                                "DPLN",
+                                "EDUF",
+                                "EMTG",
+                                "GFC",
+                                "HDIL",
+                                "IAC",
+                                "IEN",
+                                "ILB",
+                                "IMD",
+                                "IMR",
+                                "IMTG",
+                                "IMV",
+                                "INPR",
+                                "IPR",
+                                "IPS",
+                                "LCRC",
+                                "MGLD",
+                                "MMTG",
+                                "MSKN",
+                                "MTG",
+                                "OMTG",
+                                "PLN",
+                                "POD",
+                                "PRL",
+                                "RERA",
+                                "RMSKN",
+                                "RMTG",
+                                "RPLN",
+                                "RSFM",
+                                "RSMEI",
+                                "RSMEL",
+                                "RVIN",
+                                "RVLS",
+                                "SFB",
+                                "SME",
+                                "SMEI",
+                                "SMEL",
+                                "SMTG",
+                                "STFM",
+                                "TMTG",
+                                "TOD",
+                                "TPLN",
+                                "UNFS",
+                                "VCLM",
+                                "VEHE",
+                                "VESP",
+                                "VIN",
+                                "VLS",
+                                "VRA",
+                                "DSTFM",
+                                "MFL",
+                                "DSA",
+                                "SMS",
+                                "PE",
+                                "COM",
+                                "LEGL",
+                                "MIS"
+                            ],
+                            "WriteOff_NonFinancial_Products": [
+                                "BNPL",
+                                "CDL"
+                            ],
+                            "NonWriteOff_Checking": true,
+                            "NonWriteOff_NonFinancial_Checking": false,
+                            "NonWriteOff_OtherFinancial_Checking": true,
+                            "NonWriteOff_OtherFinancial_MaxConsecutivePayments": 3,
+                            "NonWriteOff_OtherFinancial_ConsecutivePaymentsForgivness": true,
+                            "WriteOff_Checking": true,
+                            "WriteOff_NonFinancial_Checking": true,
+                            "WriteOff_NonFinancial_ToleranceAmount": 20000,
+                            "WriteOff_OtherFinancial_Checking": true,
+                            "WriteOff_OtherFinancial_ToleranceAmount": 5000,
+                            "WriteOff_BouncedCheques_Checking": true,
+                            "WriteOff_BouncedCheques_IsRejected": true,
+                            "WriteOff_BouncedCheques_ClearingPeriod": 6,
+                            "WriteOff_UnExecutedCase_Checking": true,
+                            "WriteOff_RejectIfUnExecutedCase": true,
+                            "SIMAHReport_Validity": 30
+                        },
+                        "Payment Frequency": {
+                            "PaymentFrequency": 1
+                        },
+                        "Income": {
+                            "MinIncome": 2500
+                        },
+                        "Length of Service": {
+                            "MinLengthOfService": 1
+                        },
+                        "Number of Credited Salaries in ARB": {
+                            "IsBankStatmentRequired": false
+                        },
+                        "Minimum Limit": {
+                            "MinLimit": 1000
+                        },
+                        "Maximum Limit": {
+                            "MaxLimit": 300000,
+                            "IsConsideringHigherLimit": false
+                        },
+                        "Customer Age": {
+                            "MinAge": 18,
+                            "MaxAge": 65
+                        }
+                    },
+                    "Semi-Government": {
+                        "PDBR": {
+                            "PDBR": 0.45
+                        },
+                        "SIMAH Check": {
+                            "NonWriteOff_ProductsStatus": [
+                                "A",
+                                "S"
+                            ],
+                            "WriteOff_NonFinancial_DefaultStatus": [
+                                "PP",
+                                "OS"
+                            ],
+                            "WriteOff_OtherFinancial_DefaultStatus": [
+                                "PP",
+                                "OS"
+                            ],
+                            "NonWriteOff_OtherFinancial_Products": [
+                                "ADFL",
+                                "AMTG",
+                                "AQAR",
+                                "CDC",
+                                "CHC",
+                                "CHCK",
+                                "CRC",
+                                "DPLN",
+                                "EDUF",
+                                "EMTG",
+                                "GFC",
+                                "HDIL",
+                                "IAC",
+                                "IEN",
+                                "ILB",
+                                "IMD",
+                                "IMR",
+                                "IMTG",
+                                "IMV",
+                                "INPR",
+                                "IPR",
+                                "IPS",
+                                "LCRC",
+                                "MGLD",
+                                "MMTG",
+                                "MSKN",
+                                "MTG",
+                                "OMTG",
+                                "PLN",
+                                "POD",
+                                "PRL",
+                                "RERA",
+                                "RMSKN",
+                                "RMTG",
+                                "RPLN",
+                                "RSFM",
+                                "RSMEI",
+                                "RSMEL",
+                                "RVIN",
+                                "RVLS",
+                                "SFB",
+                                "SME",
+                                "SMEI",
+                                "SMEL",
+                                "SMTG",
+                                "STFM",
+                                "TMTG",
+                                "TOD",
+                                "TPLN",
+                                "UNFS",
+                                "VCLM",
+                                "VEHE",
+                                "VESP",
+                                "VIN",
+                                "VLS",
+                                "VRA",
+                                "DSTFM",
+                                "MFL",
+                                "DSA",
+                                "SMS",
+                                "PE",
+                                "COM",
+                                "LEGL",
+                                "MIS"
+                            ],
+                            "WriteOff_NonFinancial_Products": [
+                                "BNPL",
+                                "CDL"
+                            ],
+                            "NonWriteOff_Checking": true,
+                            "NonWriteOff_NonFinancial_Checking": false,
+                            "NonWriteOff_OtherFinancial_Checking": true,
+                            "NonWriteOff_OtherFinancial_MaxConsecutivePayments": 3,
+                            "NonWriteOff_OtherFinancial_ConsecutivePaymentsForgivness": true,
+                            "WriteOff_Checking": true,
+                            "WriteOff_NonFinancial_Checking": true,
+                            "WriteOff_NonFinancial_ToleranceAmount": 20000,
+                            "WriteOff_OtherFinancial_Checking": true,
+                            "WriteOff_OtherFinancial_ToleranceAmount": 5000,
+                            "WriteOff_BouncedCheques_Checking": true,
+                            "WriteOff_BouncedCheques_IsRejected": true,
+                            "WriteOff_BouncedCheques_ClearingPeriod": 6,
+                            "WriteOff_UnExecutedCase_Checking": true,
+                            "WriteOff_RejectIfUnExecutedCase": true,
+                            "SIMAHReport_Validity": 30
+                        },
+                        "Payment Frequency": {
+                            "PaymentFrequency": 1
+                        },
+                        "Income": {
+                            "MinIncome": 2500
+                        },
+                        "Length of Service": {
+                            "MinLengthOfService": 1
+                        },
+                        "Number of Credited Salaries in ARB": {
+                            "IsBankStatmentRequired": false
+                        },
+                        "Minimum Limit": {
+                            "MinLimit": 1000
+                        },
+                        "Maximum Limit": {
+                            "MaxLimit": 300000,
+                            "IsConsideringHigherLimit": false
+                        },
+                        "Customer Age": {
+                            "MinAge": 18,
+                            "MaxAge": 60
+                        }
+                    },
+                    "Private A": {
+                        "PDBR": {
+                            "PDBR": 0.45
+                        },
+                        "SIMAH Check": {
+                            "NonWriteOff_ProductsStatus": [
+                                "A",
+                                "S"
+                            ],
+                            "WriteOff_NonFinancial_DefaultStatus": [
+                                "PP",
+                                "OS"
+                            ],
+                            "WriteOff_OtherFinancial_DefaultStatus": [
+                                "PP",
+                                "OS"
+                            ],
+                            "NonWriteOff_OtherFinancial_Products": [
+                                "ADFL",
+                                "AMTG",
+                                "AQAR",
+                                "CDC",
+                                "CHC",
+                                "CHCK",
+                                "CRC",
+                                "DPLN",
+                                "EDUF",
+                                "EMTG",
+                                "GFC",
+                                "HDIL",
+                                "IAC",
+                                "IEN",
+                                "ILB",
+                                "IMD",
+                                "IMR",
+                                "IMTG",
+                                "IMV",
+                                "INPR",
+                                "IPR",
+                                "IPS",
+                                "LCRC",
+                                "MGLD",
+                                "MMTG",
+                                "MSKN",
+                                "MTG",
+                                "OMTG",
+                                "PLN",
+                                "POD",
+                                "PRL",
+                                "RERA",
+                                "RMSKN",
+                                "RMTG",
+                                "RPLN",
+                                "RSFM",
+                                "RSMEI",
+                                "RSMEL",
+                                "RVIN",
+                                "RVLS",
+                                "SFB",
+                                "SME",
+                                "SMEI",
+                                "SMEL",
+                                "SMTG",
+                                "STFM",
+                                "TMTG",
+                                "TOD",
+                                "TPLN",
+                                "UNFS",
+                                "VCLM",
+                                "VEHE",
+                                "VESP",
+                                "VIN",
+                                "VLS",
+                                "VRA",
+                                "DSTFM",
+                                "MFL",
+                                "DSA",
+                                "SMS",
+                                "PE",
+                                "COM",
+                                "LEGL",
+                                "MIS"
+                            ],
+                            "WriteOff_NonFinancial_Products": [
+                                "BNPL",
+                                "CDL"
+                            ],
+                            "NonWriteOff_Checking": true,
+                            "NonWriteOff_NonFinancial_Checking": false,
+                            "NonWriteOff_OtherFinancial_Checking": true,
+                            "NonWriteOff_OtherFinancial_MaxConsecutivePayments": 3,
+                            "NonWriteOff_OtherFinancial_ConsecutivePaymentsForgivness": true,
+                            "WriteOff_Checking": true,
+                            "WriteOff_NonFinancial_Checking": true,
+                            "WriteOff_NonFinancial_ToleranceAmount": 20000,
+                            "WriteOff_OtherFinancial_Checking": true,
+                            "WriteOff_OtherFinancial_ToleranceAmount": 5000,
+                            "WriteOff_BouncedCheques_Checking": true,
+                            "WriteOff_BouncedCheques_IsRejected": true,
+                            "WriteOff_BouncedCheques_ClearingPeriod": 6,
+                            "WriteOff_UnExecutedCase_Checking": true,
+                            "WriteOff_RejectIfUnExecutedCase": true,
+                            "SIMAHReport_Validity": 30
+                        },
+                        "Payment Frequency": {
+                            "PaymentFrequency": 1
+                        },
+                        "Income": {
+                            "MinIncome": 2500
+                        },
+                        "Length of Service": {
+                            "MinLengthOfService": 3
+                        },
+                        "Number of Credited Salaries in ARB": {
+                            "IsBankStatmentRequired": false
+                        },
+                        "Minimum Limit": {
+                            "MinLimit": 1000
+                        },
+                        "Maximum Limit": {
+                            "MaxLimit": 300000,
+                            "IsConsideringHigherLimit": false
+                        },
+                        "Customer Age": {
+                            "MinAge": 18,
+                            "MaxAge": 60
+                        }
+                    },
+                    "Private B": {
+                        "PDBR": {
+                            "PDBR": 0.45
+                        },
+                        "SIMAH Check": {
+                            "NonWriteOff_ProductsStatus": [
+                                "A",
+                                "S"
+                            ],
+                            "WriteOff_NonFinancial_DefaultStatus": [
+                                "PP",
+                                "OS"
+                            ],
+                            "WriteOff_OtherFinancial_DefaultStatus": [
+                                "PP",
+                                "OS"
+                            ],
+                            "NonWriteOff_OtherFinancial_Products": [
+                                "ADFL",
+                                "AMTG",
+                                "AQAR",
+                                "CDC",
+                                "CHC",
+                                "CHCK",
+                                "CRC",
+                                "DPLN",
+                                "EDUF",
+                                "EMTG",
+                                "GFC",
+                                "HDIL",
+                                "IAC",
+                                "IEN",
+                                "ILB",
+                                "IMD",
+                                "IMR",
+                                "IMTG",
+                                "IMV",
+                                "INPR",
+                                "IPR",
+                                "IPS",
+                                "LCRC",
+                                "MGLD",
+                                "MMTG",
+                                "MSKN",
+                                "MTG",
+                                "OMTG",
+                                "PLN",
+                                "POD",
+                                "PRL",
+                                "RERA",
+                                "RMSKN",
+                                "RMTG",
+                                "RPLN",
+                                "RSFM",
+                                "RSMEI",
+                                "RSMEL",
+                                "RVIN",
+                                "RVLS",
+                                "SFB",
+                                "SME",
+                                "SMEI",
+                                "SMEL",
+                                "SMTG",
+                                "STFM",
+                                "TMTG",
+                                "TOD",
+                                "TPLN",
+                                "UNFS",
+                                "VCLM",
+                                "VEHE",
+                                "VESP",
+                                "VIN",
+                                "VLS",
+                                "VRA",
+                                "DSTFM",
+                                "MFL",
+                                "DSA",
+                                "SMS",
+                                "PE",
+                                "COM",
+                                "LEGL",
+                                "MIS"
+                            ],
+                            "WriteOff_NonFinancial_Products": [
+                                "BNPL",
+                                "CDL"
+                            ],
+                            "NonWriteOff_Checking": true,
+                            "NonWriteOff_NonFinancial_Checking": false,
+                            "NonWriteOff_OtherFinancial_Checking": true,
+                            "NonWriteOff_OtherFinancial_MaxConsecutivePayments": 3,
+                            "NonWriteOff_OtherFinancial_ConsecutivePaymentsForgivness": true,
+                            "WriteOff_Checking": true,
+                            "WriteOff_NonFinancial_Checking": true,
+                            "WriteOff_NonFinancial_ToleranceAmount": 20000,
+                            "WriteOff_OtherFinancial_Checking": true,
+                            "WriteOff_OtherFinancial_ToleranceAmount": 5000,
+                            "WriteOff_BouncedCheques_Checking": true,
+                            "WriteOff_BouncedCheques_IsRejected": true,
+                            "WriteOff_BouncedCheques_ClearingPeriod": 6,
+                            "WriteOff_UnExecutedCase_Checking": true,
+                            "WriteOff_RejectIfUnExecutedCase": true,
+                            "SIMAHReport_Validity": 30
+                        },
+                        "Payment Frequency": {
+                            "PaymentFrequency": 1
+                        },
+                        "Income": {
+                            "MinIncome": 3000
+                        },
+                        "Length of Service": {
+                            "MinLengthOfService": 3
+                        },
+                        "Number of Credited Salaries in ARB": {
+                            "SubjectedToNumberOfMonth-ARB": 1,
+                            "IsBankStatmentRequired": true,
+                            "NumberOfCreditedSalaries-BankStatment": 2
+                        },
+                        "Minimum Limit": {
+                            "MinLimit": 1000
+                        },
+                        "Maximum Limit": {
+                            "MaxLimit": 200000,
+                            "IsConsideringHigherLimit": false
+                        },
+                        "Customer Age": {
+                            "MinAge": 18,
+                            "MaxAge": 60
+                        }
+                    },
+                    "Private C": {
+                        "PDBR": {
+                            "PDBR": 0.45
+                        },
+                        "SIMAH Check": {
+                            "NonWriteOff_ProductsStatus": [
+                                "A",
+                                "S"
+                            ],
+                            "WriteOff_NonFinancial_DefaultStatus": [
+                                "PP",
+                                "OS"
+                            ],
+                            "WriteOff_OtherFinancial_DefaultStatus": [
+                                "PP",
+                                "OS"
+                            ],
+                            "NonWriteOff_OtherFinancial_Products": [
+                                "ADFL",
+                                "AMTG",
+                                "AQAR",
+                                "CDC",
+                                "CHC",
+                                "CHCK",
+                                "CRC",
+                                "DPLN",
+                                "EDUF",
+                                "EMTG",
+                                "GFC",
+                                "HDIL",
+                                "IAC",
+                                "IEN",
+                                "ILB",
+                                "IMD",
+                                "IMR",
+                                "IMTG",
+                                "IMV",
+                                "INPR",
+                                "IPR",
+                                "IPS",
+                                "LCRC",
+                                "MGLD",
+                                "MMTG",
+                                "MSKN",
+                                "MTG",
+                                "OMTG",
+                                "PLN",
+                                "POD",
+                                "PRL",
+                                "RERA",
+                                "RMSKN",
+                                "RMTG",
+                                "RPLN",
+                                "RSFM",
+                                "RSMEI",
+                                "RSMEL",
+                                "RVIN",
+                                "RVLS",
+                                "SFB",
+                                "SME",
+                                "SMEI",
+                                "SMEL",
+                                "SMTG",
+                                "STFM",
+                                "TMTG",
+                                "TOD",
+                                "TPLN",
+                                "UNFS",
+                                "VCLM",
+                                "VEHE",
+                                "VESP",
+                                "VIN",
+                                "VLS",
+                                "VRA",
+                                "DSTFM",
+                                "MFL",
+                                "DSA",
+                                "SMS",
+                                "PE",
+                                "COM",
+                                "LEGL",
+                                "MIS"
+                            ],
+                            "WriteOff_NonFinancial_Products": [
+                                "BNPL",
+                                "CDL"
+                            ],
+                            "NonWriteOff_Checking": true,
+                            "NonWriteOff_NonFinancial_Checking": false,
+                            "NonWriteOff_OtherFinancial_Checking": true,
+                            "NonWriteOff_OtherFinancial_MaxConsecutivePayments": 3,
+                            "NonWriteOff_OtherFinancial_ConsecutivePaymentsForgivness": true,
+                            "WriteOff_Checking": true,
+                            "WriteOff_NonFinancial_Checking": true,
+                            "WriteOff_NonFinancial_ToleranceAmount": 20000,
+                            "WriteOff_OtherFinancial_Checking": true,
+                            "WriteOff_OtherFinancial_ToleranceAmount": 5000,
+                            "WriteOff_BouncedCheques_Checking": true,
+                            "WriteOff_BouncedCheques_IsRejected": true,
+                            "WriteOff_BouncedCheques_ClearingPeriod": 6,
+                            "WriteOff_UnExecutedCase_Checking": true,
+                            "WriteOff_RejectIfUnExecutedCase": true,
+                            "SIMAHReport_Validity": 30
+                        },
+                        "Payment Frequency": {
+                            "PaymentFrequency": 1
+                        },
+                        "Income": {
+                            "MinIncome": 5000
+                        },
+                        "Length of Service": {
+                            "MinLengthOfService": 3
+                        },
+                        "Number of Credited Salaries in ARB": {
+                            "SubjectedToNumberOfMonth-ARB": 1,
+                            "IsBankStatmentRequired": true,
+                            "NumberOfCreditedSalaries-BankStatment": 2
+                        },
+                        "Minimum Limit": {
+                            "MinLimit": 1000
+                        },
+                        "Maximum Limit": {
+                            "MaxLimit": 200000,
+                            "IsConsideringHigherLimit": false
+                        },
+                        "Customer Age": {
+                            "MinAge": 21,
+                            "MaxAge": 60
+                        }
+                    },
+                    "Private D": {
+                        "PDBR": {
+                            "PDBR": 0.45
+                        },
+                        "SIMAH Check": {
+                            "NonWriteOff_ProductsStatus": [
+                                "A",
+                                "S"
+                            ],
+                            "WriteOff_NonFinancial_DefaultStatus": [
+                                "PP",
+                                "OS"
+                            ],
+                            "WriteOff_OtherFinancial_DefaultStatus": [
+                                "PP",
+                                "OS"
+                            ],
+                            "NonWriteOff_OtherFinancial_Products": [
+                                "ADFL",
+                                "AMTG",
+                                "AQAR",
+                                "CDC",
+                                "CHC",
+                                "CHCK",
+                                "CRC",
+                                "DPLN",
+                                "EDUF",
+                                "EMTG",
+                                "GFC",
+                                "HDIL",
+                                "IAC",
+                                "IEN",
+                                "ILB",
+                                "IMD",
+                                "IMR",
+                                "IMTG",
+                                "IMV",
+                                "INPR",
+                                "IPR",
+                                "IPS",
+                                "LCRC",
+                                "MGLD",
+                                "MMTG",
+                                "MSKN",
+                                "MTG",
+                                "OMTG",
+                                "PLN",
+                                "POD",
+                                "PRL",
+                                "RERA",
+                                "RMSKN",
+                                "RMTG",
+                                "RPLN",
+                                "RSFM",
+                                "RSMEI",
+                                "RSMEL",
+                                "RVIN",
+                                "RVLS",
+                                "SFB",
+                                "SME",
+                                "SMEI",
+                                "SMEL",
+                                "SMTG",
+                                "STFM",
+                                "TMTG",
+                                "TOD",
+                                "TPLN",
+                                "UNFS",
+                                "VCLM",
+                                "VEHE",
+                                "VESP",
+                                "VIN",
+                                "VLS",
+                                "VRA",
+                                "DSTFM",
+                                "MFL",
+                                "DSA",
+                                "SMS",
+                                "PE",
+                                "COM",
+                                "LEGL",
+                                "MIS"
+                            ],
+                            "WriteOff_NonFinancial_Products": [
+                                "BNPL",
+                                "CDL"
+                            ],
+                            "NonWriteOff_Checking": true,
+                            "NonWriteOff_NonFinancial_Checking": false,
+                            "NonWriteOff_OtherFinancial_Checking": true,
+                            "NonWriteOff_OtherFinancial_MaxConsecutivePayments": 3,
+                            "NonWriteOff_OtherFinancial_ConsecutivePaymentsForgivness": true,
+                            "WriteOff_Checking": true,
+                            "WriteOff_NonFinancial_Checking": true,
+                            "WriteOff_NonFinancial_ToleranceAmount": 20000,
+                            "WriteOff_OtherFinancial_Checking": true,
+                            "WriteOff_OtherFinancial_ToleranceAmount": 5000,
+                            "WriteOff_BouncedCheques_Checking": true,
+                            "WriteOff_BouncedCheques_IsRejected": true,
+                            "WriteOff_BouncedCheques_ClearingPeriod": 6,
+                            "WriteOff_UnExecutedCase_Checking": true,
+                            "WriteOff_RejectIfUnExecutedCase": true,
+                            "SIMAHReport_Validity": 30
+                        },
+                        "Payment Frequency": {
+                            "PaymentFrequency": 1
+                        },
+                        "Income": {
+                            "MinIncome": 5000
+                        },
+                        "Length of Service": {
+                            "MinLengthOfService": 3
+                        },
+                        "Number of Credited Salaries in ARB": {
+                            "SubjectedToNumberOfMonth-ARB": 1,
+                            "IsBankStatmentRequired": true,
+                            "NumberOfCreditedSalaries-BankStatment": 2
+                        },
+                        "Minimum Limit": {
+                            "MinLimit": 1000
+                        },
+                        "Maximum Limit": {
+                            "MaxLimit": 200000,
+                            "IsConsideringHigherLimit": false
+                        },
+                        "Customer Age": {
+                            "MinAge": 21,
+                            "MaxAge": 60
+                        }
+                    },
+                    "Non-Approved Employers": {
+                        "PDBR": {
+                            "PDBR": 0.45
+                        },
+                        "SIMAH Check": {
+                            "NonWriteOff_ProductsStatus": [
+                                "A",
+                                "S"
+                            ],
+                            "WriteOff_NonFinancial_DefaultStatus": [
+                                "PP",
+                                "OS"
+                            ],
+                            "WriteOff_OtherFinancial_DefaultStatus": [
+                                "PP",
+                                "OS"
+                            ],
+                            "NonWriteOff_OtherFinancial_Products": [
+                                "ADFL",
+                                "AMTG",
+                                "AQAR",
+                                "CDC",
+                                "CHC",
+                                "CHCK",
+                                "CRC",
+                                "DPLN",
+                                "EDUF",
+                                "EMTG",
+                                "GFC",
+                                "HDIL",
+                                "IAC",
+                                "IEN",
+                                "ILB",
+                                "IMD",
+                                "IMR",
+                                "IMTG",
+                                "IMV",
+                                "INPR",
+                                "IPR",
+                                "IPS",
+                                "LCRC",
+                                "MGLD",
+                                "MMTG",
+                                "MSKN",
+                                "MTG",
+                                "OMTG",
+                                "PLN",
+                                "POD",
+                                "PRL",
+                                "RERA",
+                                "RMSKN",
+                                "RMTG",
+                                "RPLN",
+                                "RSFM",
+                                "RSMEI",
+                                "RSMEL",
+                                "RVIN",
+                                "RVLS",
+                                "SFB",
+                                "SME",
+                                "SMEI",
+                                "SMEL",
+                                "SMTG",
+                                "STFM",
+                                "TMTG",
+                                "TOD",
+                                "TPLN",
+                                "UNFS",
+                                "VCLM",
+                                "VEHE",
+                                "VESP",
+                                "VIN",
+                                "VLS",
+                                "VRA",
+                                "DSTFM",
+                                "MFL",
+                                "DSA",
+                                "SMS",
+                                "PE",
+                                "COM",
+                                "LEGL",
+                                "MIS"
+                            ],
+                            "WriteOff_NonFinancial_Products": [
+                                "BNPL",
+                                "CDL"
+                            ],
+                            "NonWriteOff_Checking": true,
+                            "NonWriteOff_NonFinancial_Checking": false,
+                            "NonWriteOff_OtherFinancial_Checking": true,
+                            "NonWriteOff_OtherFinancial_MaxConsecutivePayments": 3,
+                            "NonWriteOff_OtherFinancial_ConsecutivePaymentsForgivness": true,
+                            "WriteOff_Checking": true,
+                            "WriteOff_NonFinancial_Checking": true,
+                            "WriteOff_NonFinancial_ToleranceAmount": 20000,
+                            "WriteOff_OtherFinancial_Checking": true,
+                            "WriteOff_OtherFinancial_ToleranceAmount": 5000,
+                            "WriteOff_BouncedCheques_Checking": true,
+                            "WriteOff_BouncedCheques_IsRejected": true,
+                            "WriteOff_BouncedCheques_ClearingPeriod": 6,
+                            "WriteOff_UnExecutedCase_Checking": true,
+                            "WriteOff_RejectIfUnExecutedCase": true,
+                            "SIMAHReport_Validity": 30
+                        },
+                        "Payment Frequency": {
+                            "PaymentFrequency": 1
+                        },
+                        "Income": {
+                            "MinIncome": 5000
+                        },
+                        "Length of Service": {
+                            "MinLengthOfService": 6
+                        },
+                        "Number of Credited Salaries in ARB": {
+                            "SubjectedToNumberOfMonth-ARB": 1,
+                            "IsBankStatmentRequired": true,
+                            "NumberOfCreditedSalaries-BankStatment": 2
+                        },
+                        "Minimum Limit": {
+                            "MinLimit": 1000
+                        },
+                        "Maximum Limit": {
+                            "MaxLimit": 100000,
+                            "MaxLimitSalaryFactor": 2,
+                            "IsConsideringHigherLimit": false
+                        },
+                        "Customer Age": {
+                            "MinAge": 21,
+                            "MaxAge": 60
+                        }
+                    }
+                },
+                "Non Salary Transfer": {
+                    "Government": {
+                        "PDBR": {
+                            "PDBR": 0.45
+                        },
+                        "SIMAH Check": {
+                            "NonWriteOff_ProductsStatus": [
+                                "A",
+                                "S"
+                            ],
+                            "WriteOff_NonFinancial_DefaultStatus": [
+                                "PP",
+                                "OS"
+                            ],
+                            "WriteOff_OtherFinancial_DefaultStatus": [
+                                "PP",
+                                "OS"
+                            ],
+                            "NonWriteOff_OtherFinancial_Products": [
+                                "ADFL",
+                                "AMTG",
+                                "AQAR",
+                                "CDC",
+                                "CHC",
+                                "CHCK",
+                                "CRC",
+                                "DPLN",
+                                "EDUF",
+                                "EMTG",
+                                "GFC",
+                                "HDIL",
+                                "IAC",
+                                "IEN",
+                                "ILB",
+                                "IMD",
+                                "IMR",
+                                "IMTG",
+                                "IMV",
+                                "INPR",
+                                "IPR",
+                                "IPS",
+                                "LCRC",
+                                "MGLD",
+                                "MMTG",
+                                "MSKN",
+                                "MTG",
+                                "OMTG",
+                                "PLN",
+                                "POD",
+                                "PRL",
+                                "RERA",
+                                "RMSKN",
+                                "RMTG",
+                                "RPLN",
+                                "RSFM",
+                                "RSMEI",
+                                "RSMEL",
+                                "RVIN",
+                                "RVLS",
+                                "SFB",
+                                "SME",
+                                "SMEI",
+                                "SMEL",
+                                "SMTG",
+                                "STFM",
+                                "TMTG",
+                                "TOD",
+                                "TPLN",
+                                "UNFS",
+                                "VCLM",
+                                "VEHE",
+                                "VESP",
+                                "VIN",
+                                "VLS",
+                                "VRA",
+                                "DSTFM",
+                                "MFL",
+                                "DSA",
+                                "SMS",
+                                "PE",
+                                "COM",
+                                "LEGL",
+                                "MIS"
+                            ],
+                            "WriteOff_NonFinancial_Products": [
+                                "BNPL",
+                                "CDL"
+                            ],
+                            "NonWriteOff_Checking": true,
+                            "NonWriteOff_NonFinancial_Checking": false,
+                            "NonWriteOff_OtherFinancial_Checking": true,
+                            "NonWriteOff_OtherFinancial_MaxConsecutivePayments": 3,
+                            "NonWriteOff_OtherFinancial_ConsecutivePaymentsForgivness": true,
+                            "WriteOff_Checking": true,
+                            "WriteOff_NonFinancial_Checking": true,
+                            "WriteOff_NonFinancial_ToleranceAmount": 20000,
+                            "WriteOff_OtherFinancial_Checking": true,
+                            "WriteOff_OtherFinancial_ToleranceAmount": 5000,
+                            "WriteOff_BouncedCheques_Checking": true,
+                            "WriteOff_BouncedCheques_IsRejected": true,
+                            "WriteOff_BouncedCheques_ClearingPeriod": 6,
+                            "WriteOff_UnExecutedCase_Checking": true,
+                            "WriteOff_RejectIfUnExecutedCase": true,
+                            "SIMAHReport_Validity": 30
+                        },
+                        "Payment Frequency": {
+                            "PaymentFrequency": 1
+                        },
+                        "Income": {
+                            "MinIncome": 3500
+                        },
+                        "Length of Service": {
+                            "MinLengthOfService": 2
+                        },
+                        "Number of Credited Salaries in ARB": {
+                            "IsBankStatmentRequired": false
+                        },
+                        "Minimum Limit": {
+                            "MinLimit": 2000
+                        },
+                        "Maximum Limit": {
+                            "MaxLimit": 250000,
+                            "IsConsideringHigherLimit": false
+                        },
+                        "Customer Age": {
+                            "MinAge": 21,
+                            "MaxAge": 60
+                        }
+                    },
+                    "Semi-Government": {
+                        "PDBR": {
+                            "PDBR": 0.45
+                        },
+                        "SIMAH Check": {
+                            "NonWriteOff_ProductsStatus": [
+                                "A",
+                                "S"
+                            ],
+                            "WriteOff_NonFinancial_DefaultStatus": [
+                                "PP",
+                                "OS"
+                            ],
+                            "WriteOff_OtherFinancial_DefaultStatus": [
+                                "PP",
+                                "OS"
+                            ],
+                            "NonWriteOff_OtherFinancial_Products": [
+                                "ADFL",
+                                "AMTG",
+                                "AQAR",
+                                "CDC",
+                                "CHC",
+                                "CHCK",
+                                "CRC",
+                                "DPLN",
+                                "EDUF",
+                                "EMTG",
+                                "GFC",
+                                "HDIL",
+                                "IAC",
+                                "IEN",
+                                "ILB",
+                                "IMD",
+                                "IMR",
+                                "IMTG",
+                                "IMV",
+                                "INPR",
+                                "IPR",
+                                "IPS",
+                                "LCRC",
+                                "MGLD",
+                                "MMTG",
+                                "MSKN",
+                                "MTG",
+                                "OMTG",
+                                "PLN",
+                                "POD",
+                                "PRL",
+                                "RERA",
+                                "RMSKN",
+                                "RMTG",
+                                "RPLN",
+                                "RSFM",
+                                "RSMEI",
+                                "RSMEL",
+                                "RVIN",
+                                "RVLS",
+                                "SFB",
+                                "SME",
+                                "SMEI",
+                                "SMEL",
+                                "SMTG",
+                                "STFM",
+                                "TMTG",
+                                "TOD",
+                                "TPLN",
+                                "UNFS",
+                                "VCLM",
+                                "VEHE",
+                                "VESP",
+                                "VIN",
+                                "VLS",
+                                "VRA",
+                                "DSTFM",
+                                "MFL",
+                                "DSA",
+                                "SMS",
+                                "PE",
+                                "COM",
+                                "LEGL",
+                                "MIS"
+                            ],
+                            "WriteOff_NonFinancial_Products": [
+                                "BNPL",
+                                "CDL"
+                            ],
+                            "NonWriteOff_Checking": true,
+                            "NonWriteOff_NonFinancial_Checking": false,
+                            "NonWriteOff_OtherFinancial_Checking": true,
+                            "NonWriteOff_OtherFinancial_MaxConsecutivePayments": 3,
+                            "NonWriteOff_OtherFinancial_ConsecutivePaymentsForgivness": true,
+                            "WriteOff_Checking": true,
+                            "WriteOff_NonFinancial_Checking": true,
+                            "WriteOff_NonFinancial_ToleranceAmount": 20000,
+                            "WriteOff_OtherFinancial_Checking": true,
+                            "WriteOff_OtherFinancial_ToleranceAmount": 5000,
+                            "WriteOff_BouncedCheques_Checking": true,
+                            "WriteOff_BouncedCheques_IsRejected": true,
+                            "WriteOff_BouncedCheques_ClearingPeriod": 6,
+                            "WriteOff_UnExecutedCase_Checking": true,
+                            "WriteOff_RejectIfUnExecutedCase": true,
+                            "SIMAHReport_Validity": 30
+                        },
+                        "Payment Frequency": {
+                            "PaymentFrequency": 1
+                        },
+                        "Income": {
+                            "MinIncome": 3500
+                        },
+                        "Length of Service": {
+                            "MinLengthOfService": 2
+                        },
+                        "Number of Credited Salaries in ARB": {
+                            "IsBankStatmentRequired": false
+                        },
+                        "Minimum Limit": {
+                            "MinLimit": 2000
+                        },
+                        "Maximum Limit": {
+                            "MaxLimit": 250000,
+                            "IsConsideringHigherLimit": false
+                        },
+                        "Customer Age": {
+                            "MinAge": 21,
+                            "MaxAge": 60
+                        }
+                    },
+                    "Private A": {
+                        "PDBR": {
+                            "PDBR": 0.45
+                        },
+                        "SIMAH Check": {
+                            "NonWriteOff_ProductsStatus": [
+                                "A",
+                                "S"
+                            ],
+                            "WriteOff_NonFinancial_DefaultStatus": [
+                                "PP",
+                                "OS"
+                            ],
+                            "WriteOff_OtherFinancial_DefaultStatus": [
+                                "PP",
+                                "OS"
+                            ],
+                            "NonWriteOff_OtherFinancial_Products": [
+                                "ADFL",
+                                "AMTG",
+                                "AQAR",
+                                "CDC",
+                                "CHC",
+                                "CHCK",
+                                "CRC",
+                                "DPLN",
+                                "EDUF",
+                                "EMTG",
+                                "GFC",
+                                "HDIL",
+                                "IAC",
+                                "IEN",
+                                "ILB",
+                                "IMD",
+                                "IMR",
+                                "IMTG",
+                                "IMV",
+                                "INPR",
+                                "IPR",
+                                "IPS",
+                                "LCRC",
+                                "MGLD",
+                                "MMTG",
+                                "MSKN",
+                                "MTG",
+                                "OMTG",
+                                "PLN",
+                                "POD",
+                                "PRL",
+                                "RERA",
+                                "RMSKN",
+                                "RMTG",
+                                "RPLN",
+                                "RSFM",
+                                "RSMEI",
+                                "RSMEL",
+                                "RVIN",
+                                "RVLS",
+                                "SFB",
+                                "SME",
+                                "SMEI",
+                                "SMEL",
+                                "SMTG",
+                                "STFM",
+                                "TMTG",
+                                "TOD",
+                                "TPLN",
+                                "UNFS",
+                                "VCLM",
+                                "VEHE",
+                                "VESP",
+                                "VIN",
+                                "VLS",
+                                "VRA",
+                                "DSTFM",
+                                "MFL",
+                                "DSA",
+                                "SMS",
+                                "PE",
+                                "COM",
+                                "LEGL",
+                                "MIS"
+                            ],
+                            "WriteOff_NonFinancial_Products": [
+                                "BNPL",
+                                "CDL"
+                            ],
+                            "NonWriteOff_Checking": true,
+                            "NonWriteOff_NonFinancial_Checking": false,
+                            "NonWriteOff_OtherFinancial_Checking": true,
+                            "NonWriteOff_OtherFinancial_MaxConsecutivePayments": 3,
+                            "NonWriteOff_OtherFinancial_ConsecutivePaymentsForgivness": true,
+                            "WriteOff_Checking": true,
+                            "WriteOff_NonFinancial_Checking": true,
+                            "WriteOff_NonFinancial_ToleranceAmount": 20000,
+                            "WriteOff_OtherFinancial_Checking": true,
+                            "WriteOff_OtherFinancial_ToleranceAmount": 5000,
+                            "WriteOff_BouncedCheques_Checking": true,
+                            "WriteOff_BouncedCheques_IsRejected": true,
+                            "WriteOff_BouncedCheques_ClearingPeriod": 6,
+                            "WriteOff_UnExecutedCase_Checking": true,
+                            "WriteOff_RejectIfUnExecutedCase": true,
+                            "SIMAHReport_Validity": 30
+                        },
+                        "Payment Frequency": {
+                            "PaymentFrequency": 1
+                        },
+                        "Income": {
+                            "MinIncome": 3500
+                        },
+                        "Length of Service": {
+                            "MinLengthOfService": 4
+                        },
+                        "Number of Credited Salaries in ARB": {
+                            "IsBankStatmentRequired": false
+                        },
+                        "Minimum Limit": {
+                            "MinLimit": 2000
+                        },
+                        "Maximum Limit": {
+                            "MaxLimit": 250000,
+                            "IsConsideringHigherLimit": false
+                        },
+                        "Customer Age": {
+                            "MinAge": 21,
+                            "MaxAge": 60
+                        }
+                    },
+                    "Private B": {
+                        "PDBR": {
+                            "PDBR": 0.45
+                        },
+                        "SIMAH Check": {
+                            "NonWriteOff_ProductsStatus": [
+                                "A",
+                                "S"
+                            ],
+                            "WriteOff_NonFinancial_DefaultStatus": [
+                                "PP",
+                                "OS"
+                            ],
+                            "WriteOff_OtherFinancial_DefaultStatus": [
+                                "PP",
+                                "OS"
+                            ],
+                            "NonWriteOff_OtherFinancial_Products": [
+                                "ADFL",
+                                "AMTG",
+                                "AQAR",
+                                "CDC",
+                                "CHC",
+                                "CHCK",
+                                "CRC",
+                                "DPLN",
+                                "EDUF",
+                                "EMTG",
+                                "GFC",
+                                "HDIL",
+                                "IAC",
+                                "IEN",
+                                "ILB",
+                                "IMD",
+                                "IMR",
+                                "IMTG",
+                                "IMV",
+                                "INPR",
+                                "IPR",
+                                "IPS",
+                                "LCRC",
+                                "MGLD",
+                                "MMTG",
+                                "MSKN",
+                                "MTG",
+                                "OMTG",
+                                "PLN",
+                                "POD",
+                                "PRL",
+                                "RERA",
+                                "RMSKN",
+                                "RMTG",
+                                "RPLN",
+                                "RSFM",
+                                "RSMEI",
+                                "RSMEL",
+                                "RVIN",
+                                "RVLS",
+                                "SFB",
+                                "SME",
+                                "SMEI",
+                                "SMEL",
+                                "SMTG",
+                                "STFM",
+                                "TMTG",
+                                "TOD",
+                                "TPLN",
+                                "UNFS",
+                                "VCLM",
+                                "VEHE",
+                                "VESP",
+                                "VIN",
+                                "VLS",
+                                "VRA",
+                                "DSTFM",
+                                "MFL",
+                                "DSA",
+                                "SMS",
+                                "PE",
+                                "COM",
+                                "LEGL",
+                                "MIS"
+                            ],
+                            "WriteOff_NonFinancial_Products": [
+                                "BNPL",
+                                "CDL"
+                            ],
+                            "NonWriteOff_Checking": true,
+                            "NonWriteOff_NonFinancial_Checking": false,
+                            "NonWriteOff_OtherFinancial_Checking": true,
+                            "NonWriteOff_OtherFinancial_MaxConsecutivePayments": 3,
+                            "NonWriteOff_OtherFinancial_ConsecutivePaymentsForgivness": true,
+                            "WriteOff_Checking": true,
+                            "WriteOff_NonFinancial_Checking": true,
+                            "WriteOff_NonFinancial_ToleranceAmount": 20000,
+                            "WriteOff_OtherFinancial_Checking": true,
+                            "WriteOff_OtherFinancial_ToleranceAmount": 5000,
+                            "WriteOff_BouncedCheques_Checking": true,
+                            "WriteOff_BouncedCheques_IsRejected": true,
+                            "WriteOff_BouncedCheques_ClearingPeriod": 6,
+                            "WriteOff_UnExecutedCase_Checking": true,
+                            "WriteOff_RejectIfUnExecutedCase": true,
+                            "SIMAHReport_Validity": 30
+                        },
+                        "Payment Frequency": {
+                            "PaymentFrequency": 1
+                        },
+                        "Income": {
+                            "MinIncome": 4000
+                        },
+                        "Length of Service": {
+                            "MinLengthOfService": 4
+                        },
+                        "Number of Credited Salaries in ARB": {
+                            "SubjectedToNumberOfMonth-ARB": 1,
+                            "IsBankStatmentRequired": true,
+                            "NumberOfCreditedSalaries-BankStatment": 2
+                        },
+                        "Minimum Limit": {
+                            "MinLimit": 2000
+                        },
+                        "Maximum Limit": {
+                            "MaxLimit": 150000,
+                            "IsConsideringHigherLimit": false
+                        },
+                        "Customer Age": {
+                            "MinAge": 21,
+                            "MaxAge": 60
+                        }
+                    },
+                    "Private C": {
+                        "PDBR": {
+                            "PDBR": 0.45
+                        },
+                        "SIMAH Check": {
+                            "NonWriteOff_ProductsStatus": [
+                                "A",
+                                "S"
+                            ],
+                            "WriteOff_NonFinancial_DefaultStatus": [
+                                "PP",
+                                "OS"
+                            ],
+                            "WriteOff_OtherFinancial_DefaultStatus": [
+                                "PP",
+                                "OS"
+                            ],
+                            "NonWriteOff_OtherFinancial_Products": [
+                                "ADFL",
+                                "AMTG",
+                                "AQAR",
+                                "CDC",
+                                "CHC",
+                                "CHCK",
+                                "CRC",
+                                "DPLN",
+                                "EDUF",
+                                "EMTG",
+                                "GFC",
+                                "HDIL",
+                                "IAC",
+                                "IEN",
+                                "ILB",
+                                "IMD",
+                                "IMR",
+                                "IMTG",
+                                "IMV",
+                                "INPR",
+                                "IPR",
+                                "IPS",
+                                "LCRC",
+                                "MGLD",
+                                "MMTG",
+                                "MSKN",
+                                "MTG",
+                                "OMTG",
+                                "PLN",
+                                "POD",
+                                "PRL",
+                                "RERA",
+                                "RMSKN",
+                                "RMTG",
+                                "RPLN",
+                                "RSFM",
+                                "RSMEI",
+                                "RSMEL",
+                                "RVIN",
+                                "RVLS",
+                                "SFB",
+                                "SME",
+                                "SMEI",
+                                "SMEL",
+                                "SMTG",
+                                "STFM",
+                                "TMTG",
+                                "TOD",
+                                "TPLN",
+                                "UNFS",
+                                "VCLM",
+                                "VEHE",
+                                "VESP",
+                                "VIN",
+                                "VLS",
+                                "VRA",
+                                "DSTFM",
+                                "MFL",
+                                "DSA",
+                                "SMS",
+                                "PE",
+                                "COM",
+                                "LEGL",
+                                "MIS"
+                            ],
+                            "WriteOff_NonFinancial_Products": [
+                                "BNPL",
+                                "CDL"
+                            ],
+                            "NonWriteOff_Checking": true,
+                            "NonWriteOff_NonFinancial_Checking": false,
+                            "NonWriteOff_OtherFinancial_Checking": true,
+                            "NonWriteOff_OtherFinancial_MaxConsecutivePayments": 3,
+                            "NonWriteOff_OtherFinancial_ConsecutivePaymentsForgivness": true,
+                            "WriteOff_Checking": true,
+                            "WriteOff_NonFinancial_Checking": true,
+                            "WriteOff_NonFinancial_ToleranceAmount": 20000,
+                            "WriteOff_OtherFinancial_Checking": true,
+                            "WriteOff_OtherFinancial_ToleranceAmount": 5000,
+                            "WriteOff_BouncedCheques_Checking": true,
+                            "WriteOff_BouncedCheques_IsRejected": true,
+                            "WriteOff_BouncedCheques_ClearingPeriod": 6,
+                            "WriteOff_UnExecutedCase_Checking": true,
+                            "WriteOff_RejectIfUnExecutedCase": true,
+                            "SIMAHReport_Validity": 30
+                        },
+                        "Payment Frequency": {
+                            "PaymentFrequency": 1
+                        },
+                        "Income": {
+                            "MinIncome": 5500
+                        },
+                        "Length of Service": {
+                            "MinLengthOfService": 4
+                        },
+                        "Number of Credited Salaries in ARB": {
+                            "SubjectedToNumberOfMonth-ARB": 1,
+                            "IsBankStatmentRequired": true,
+                            "NumberOfCreditedSalaries-BankStatment": 2
+                        },
+                        "Minimum Limit": {
+                            "MinLimit": 2000
+                        },
+                        "Maximum Limit": {
+                            "MaxLimit": 150000,
+                            "IsConsideringHigherLimit": false
+                        },
+                        "Customer Age": {
+                            "MinAge": 25,
+                            "MaxAge": 60
+                        }
+                    },
+                    "Private D": {
+                        "PDBR": {
+                            "PDBR": 0.45
+                        },
+                        "SIMAH Check": {
+                            "NonWriteOff_ProductsStatus": [
+                                "A",
+                                "S"
+                            ],
+                            "WriteOff_NonFinancial_DefaultStatus": [
+                                "PP",
+                                "OS"
+                            ],
+                            "WriteOff_OtherFinancial_DefaultStatus": [
+                                "PP",
+                                "OS"
+                            ],
+                            "NonWriteOff_OtherFinancial_Products": [
+                                "ADFL",
+                                "AMTG",
+                                "AQAR",
+                                "CDC",
+                                "CHC",
+                                "CHCK",
+                                "CRC",
+                                "DPLN",
+                                "EDUF",
+                                "EMTG",
+                                "GFC",
+                                "HDIL",
+                                "IAC",
+                                "IEN",
+                                "ILB",
+                                "IMD",
+                                "IMR",
+                                "IMTG",
+                                "IMV",
+                                "INPR",
+                                "IPR",
+                                "IPS",
+                                "LCRC",
+                                "MGLD",
+                                "MMTG",
+                                "MSKN",
+                                "MTG",
+                                "OMTG",
+                                "PLN",
+                                "POD",
+                                "PRL",
+                                "RERA",
+                                "RMSKN",
+                                "RMTG",
+                                "RPLN",
+                                "RSFM",
+                                "RSMEI",
+                                "RSMEL",
+                                "RVIN",
+                                "RVLS",
+                                "SFB",
+                                "SME",
+                                "SMEI",
+                                "SMEL",
+                                "SMTG",
+                                "STFM",
+                                "TMTG",
+                                "TOD",
+                                "TPLN",
+                                "UNFS",
+                                "VCLM",
+                                "VEHE",
+                                "VESP",
+                                "VIN",
+                                "VLS",
+                                "VRA",
+                                "DSTFM",
+                                "MFL",
+                                "DSA",
+                                "SMS",
+                                "PE",
+                                "COM",
+                                "LEGL",
+                                "MIS"
+                            ],
+                            "WriteOff_NonFinancial_Products": [
+                                "BNPL",
+                                "CDL"
+                            ],
+                            "NonWriteOff_Checking": true,
+                            "NonWriteOff_NonFinancial_Checking": false,
+                            "NonWriteOff_OtherFinancial_Checking": true,
+                            "NonWriteOff_OtherFinancial_MaxConsecutivePayments": 3,
+                            "NonWriteOff_OtherFinancial_ConsecutivePaymentsForgivness": true,
+                            "WriteOff_Checking": true,
+                            "WriteOff_NonFinancial_Checking": true,
+                            "WriteOff_NonFinancial_ToleranceAmount": 20000,
+                            "WriteOff_OtherFinancial_Checking": true,
+                            "WriteOff_OtherFinancial_ToleranceAmount": 5000,
+                            "WriteOff_BouncedCheques_Checking": true,
+                            "WriteOff_BouncedCheques_IsRejected": true,
+                            "WriteOff_BouncedCheques_ClearingPeriod": 6,
+                            "WriteOff_UnExecutedCase_Checking": true,
+                            "WriteOff_RejectIfUnExecutedCase": true,
+                            "SIMAHReport_Validity": 30
+                        },
+                        "Payment Frequency": {
+                            "PaymentFrequency": 1
+                        },
+                        "Income": {
+                            "MinIncome": 5500
+                        },
+                        "Length of Service": {
+                            "MinLengthOfService": 4
+                        },
+                        "Number of Credited Salaries in ARB": {
+                            "SubjectedToNumberOfMonth-ARB": 1,
+                            "IsBankStatmentRequired": true,
+                            "NumberOfCreditedSalaries-BankStatment": 2
+                        },
+                        "Minimum Limit": {
+                            "MinLimit": 2000
+                        },
+                        "Maximum Limit": {
+                            "MaxLimit": 150000,
+                            "IsConsideringHigherLimit": false
+                        },
+                        "Customer Age": {
+                            "MinAge": 25,
+                            "MaxAge": 60
+                        }
+                    },
+                    "Non-Approved Employers": {
+                        "PDBR": {
+                            "PDBR": 0.45
+                        },
+                        "SIMAH Check": {
+                            "NonWriteOff_ProductsStatus": [
+                                "A",
+                                "S"
+                            ],
+                            "WriteOff_NonFinancial_DefaultStatus": [
+                                "PP",
+                                "OS"
+                            ],
+                            "WriteOff_OtherFinancial_DefaultStatus": [
+                                "PP",
+                                "OS"
+                            ],
+                            "NonWriteOff_OtherFinancial_Products": [
+                                "ADFL",
+                                "AMTG",
+                                "AQAR",
+                                "CDC",
+                                "CHC",
+                                "CHCK",
+                                "CRC",
+                                "DPLN",
+                                "EDUF",
+                                "EMTG",
+                                "GFC",
+                                "HDIL",
+                                "IAC",
+                                "IEN",
+                                "ILB",
+                                "IMD",
+                                "IMR",
+                                "IMTG",
+                                "IMV",
+                                "INPR",
+                                "IPR",
+                                "IPS",
+                                "LCRC",
+                                "MGLD",
+                                "MMTG",
+                                "MSKN",
+                                "MTG",
+                                "OMTG",
+                                "PLN",
+                                "POD",
+                                "PRL",
+                                "RERA",
+                                "RMSKN",
+                                "RMTG",
+                                "RPLN",
+                                "RSFM",
+                                "RSMEI",
+                                "RSMEL",
+                                "RVIN",
+                                "RVLS",
+                                "SFB",
+                                "SME",
+                                "SMEI",
+                                "SMEL",
+                                "SMTG",
+                                "STFM",
+                                "TMTG",
+                                "TOD",
+                                "TPLN",
+                                "UNFS",
+                                "VCLM",
+                                "VEHE",
+                                "VESP",
+                                "VIN",
+                                "VLS",
+                                "VRA",
+                                "DSTFM",
+                                "MFL",
+                                "DSA",
+                                "SMS",
+                                "PE",
+                                "COM",
+                                "LEGL",
+                                "MIS"
+                            ],
+                            "WriteOff_NonFinancial_Products": [
+                                "BNPL",
+                                "CDL"
+                            ],
+                            "NonWriteOff_Checking": true,
+                            "NonWriteOff_NonFinancial_Checking": false,
+                            "NonWriteOff_OtherFinancial_Checking": true,
+                            "NonWriteOff_OtherFinancial_MaxConsecutivePayments": 3,
+                            "NonWriteOff_OtherFinancial_ConsecutivePaymentsForgivness": true,
+                            "WriteOff_Checking": true,
+                            "WriteOff_NonFinancial_Checking": true,
+                            "WriteOff_NonFinancial_ToleranceAmount": 20000,
+                            "WriteOff_OtherFinancial_Checking": true,
+                            "WriteOff_OtherFinancial_ToleranceAmount": 5000,
+                            "WriteOff_BouncedCheques_Checking": true,
+                            "WriteOff_BouncedCheques_IsRejected": true,
+                            "WriteOff_BouncedCheques_ClearingPeriod": 6,
+                            "WriteOff_UnExecutedCase_Checking": true,
+                            "WriteOff_RejectIfUnExecutedCase": true,
+                            "SIMAHReport_Validity": 30
+                        },
+                        "Payment Frequency": {
+                            "PaymentFrequency": 1
+                        },
+                        "Income": {
+                            "MinIncome": 5500
+                        },
+                        "Length of Service": {
+                            "MinLengthOfService": 7
+                        },
+                        "Number of Credited Salaries in ARB": {
+                            "SubjectedToNumberOfMonth-ARB": 1,
+                            "IsBankStatmentRequired": true,
+                            "NumberOfCreditedSalaries-BankStatment": 2
+                        },
+                        "Minimum Limit": {
+                            "MinLimit": 2000
+                        },
+                        "Maximum Limit": {
+                            "MaxLimit": 50000,
+                            "MaxLimitSalaryFactor": 1.5,
+                            "IsConsideringHigherLimit": false
+                        },
+                        "Customer Age": {
+                            "MinAge": 25,
+                            "MaxAge": 60
+                        }
+                    }
+                }
+            },
+            "Non Saudi National": {
+                "Salary Transfer": {
+                    "Government": {
+                        "PDBR": {
+                            "PDBR": 0.4
+                        },
+                        "SIMAH Check": {
+                            "NonWriteOff_ProductsStatus": [
+                                "A",
+                                "S"
+                            ],
+                            "WriteOff_NonFinancial_DefaultStatus": [
+                                "PP",
+                                "OS"
+                            ],
+                            "WriteOff_OtherFinancial_DefaultStatus": [
+                                "PP",
+                                "OS"
+                            ],
+                            "NonWriteOff_OtherFinancial_Products": [
+                                "ADFL",
+                                "AMTG",
+                                "AQAR",
+                                "CDC",
+                                "CHC",
+                                "CHCK",
+                                "CRC",
+                                "DPLN",
+                                "EDUF",
+                                "EMTG",
+                                "GFC",
+                                "HDIL",
+                                "IAC",
+                                "IEN",
+                                "ILB",
+                                "IMD",
+                                "IMR",
+                                "IMTG",
+                                "IMV",
+                                "INPR",
+                                "IPR",
+                                "IPS",
+                                "LCRC",
+                                "MGLD",
+                                "MMTG",
+                                "MSKN",
+                                "MTG",
+                                "OMTG",
+                                "PLN",
+                                "POD",
+                                "PRL",
+                                "RERA",
+                                "RMSKN",
+                                "RMTG",
+                                "RPLN",
+                                "RSFM",
+                                "RSMEI",
+                                "RSMEL",
+                                "RVIN",
+                                "RVLS",
+                                "SFB",
+                                "SME",
+                                "SMEI",
+                                "SMEL",
+                                "SMTG",
+                                "STFM",
+                                "TMTG",
+                                "TOD",
+                                "TPLN",
+                                "UNFS",
+                                "VCLM",
+                                "VEHE",
+                                "VESP",
+                                "VIN",
+                                "VLS",
+                                "VRA",
+                                "DSTFM",
+                                "MFL",
+                                "DSA",
+                                "SMS",
+                                "PE",
+                                "COM",
+                                "LEGL",
+                                "MIS"
+                            ],
+                            "WriteOff_NonFinancial_Products": [
+                                "BNPL",
+                                "CDL"
+                            ],
+                            "NonWriteOff_Checking": true,
+                            "NonWriteOff_NonFinancial_Checking": false,
+                            "NonWriteOff_OtherFinancial_Checking": true,
+                            "NonWriteOff_OtherFinancial_MaxConsecutivePayments": 3,
+                            "NonWriteOff_OtherFinancial_ConsecutivePaymentsForgivness": true,
+                            "WriteOff_Checking": true,
+                            "WriteOff_NonFinancial_Checking": true,
+                            "WriteOff_NonFinancial_ToleranceAmount": 20000,
+                            "WriteOff_OtherFinancial_Checking": true,
+                            "WriteOff_OtherFinancial_ToleranceAmount": 5000,
+                            "WriteOff_BouncedCheques_Checking": true,
+                            "WriteOff_BouncedCheques_IsRejected": true,
+                            "WriteOff_BouncedCheques_ClearingPeriod": 6,
+                            "WriteOff_UnExecutedCase_Checking": true,
+                            "WriteOff_RejectIfUnExecutedCase": true,
+                            "SIMAHReport_Validity": 30
+                        },
+                        "Payment Frequency": {
+                            "PaymentFrequency": 1
+                        },
+                        "Income": {
+                            "MinIncome": 3500
+                        },
+                        "Length of Service": {
+                            "MinLengthOfService": 2
+                        },
+                        "Number of Credited Salaries in ARB": {
+                            "IsBankStatmentRequired": false
+                        },
+                        "Minimum Limit": {
+                            "MinLimit": 2000
+                        },
+                        "Maximum Limit": {
+                            "MaxLimit": 250000,
+                            "IsConsideringHigherLimit": false
+                        },
+                        "Customer Age": {
+                            "MinAge": 21,
+                            "MaxAge": 60
+                        }
+                    },
+                    "Semi-Government": {
+                        "PDBR": {
+                            "PDBR": 0.4
+                        },
+                        "SIMAH Check": {
+                            "NonWriteOff_ProductsStatus": [
+                                "A",
+                                "S"
+                            ],
+                            "WriteOff_NonFinancial_DefaultStatus": [
+                                "PP",
+                                "OS"
+                            ],
+                            "WriteOff_OtherFinancial_DefaultStatus": [
+                                "PP",
+                                "OS"
+                            ],
+                            "NonWriteOff_OtherFinancial_Products": [
+                                "ADFL",
+                                "AMTG",
+                                "AQAR",
+                                "CDC",
+                                "CHC",
+                                "CHCK",
+                                "CRC",
+                                "DPLN",
+                                "EDUF",
+                                "EMTG",
+                                "GFC",
+                                "HDIL",
+                                "IAC",
+                                "IEN",
+                                "ILB",
+                                "IMD",
+                                "IMR",
+                                "IMTG",
+                                "IMV",
+                                "INPR",
+                                "IPR",
+                                "IPS",
+                                "LCRC",
+                                "MGLD",
+                                "MMTG",
+                                "MSKN",
+                                "MTG",
+                                "OMTG",
+                                "PLN",
+                                "POD",
+                                "PRL",
+                                "RERA",
+                                "RMSKN",
+                                "RMTG",
+                                "RPLN",
+                                "RSFM",
+                                "RSMEI",
+                                "RSMEL",
+                                "RVIN",
+                                "RVLS",
+                                "SFB",
+                                "SME",
+                                "SMEI",
+                                "SMEL",
+                                "SMTG",
+                                "STFM",
+                                "TMTG",
+                                "TOD",
+                                "TPLN",
+                                "UNFS",
+                                "VCLM",
+                                "VEHE",
+                                "VESP",
+                                "VIN",
+                                "VLS",
+                                "VRA",
+                                "DSTFM",
+                                "MFL",
+                                "DSA",
+                                "SMS",
+                                "PE",
+                                "COM",
+                                "LEGL",
+                                "MIS"
+                            ],
+                            "WriteOff_NonFinancial_Products": [
+                                "BNPL",
+                                "CDL"
+                            ],
+                            "NonWriteOff_Checking": true,
+                            "NonWriteOff_NonFinancial_Checking": false,
+                            "NonWriteOff_OtherFinancial_Checking": true,
+                            "NonWriteOff_OtherFinancial_MaxConsecutivePayments": 3,
+                            "NonWriteOff_OtherFinancial_ConsecutivePaymentsForgivness": true,
+                            "WriteOff_Checking": true,
+                            "WriteOff_NonFinancial_Checking": true,
+                            "WriteOff_NonFinancial_ToleranceAmount": 20000,
+                            "WriteOff_OtherFinancial_Checking": true,
+                            "WriteOff_OtherFinancial_ToleranceAmount": 5000,
+                            "WriteOff_BouncedCheques_Checking": true,
+                            "WriteOff_BouncedCheques_IsRejected": true,
+                            "WriteOff_BouncedCheques_ClearingPeriod": 6,
+                            "WriteOff_UnExecutedCase_Checking": true,
+                            "WriteOff_RejectIfUnExecutedCase": true,
+                            "SIMAHReport_Validity": 30
+                        },
+                        "Payment Frequency": {
+                            "PaymentFrequency": 1
+                        },
+                        "Income": {
+                            "MinIncome": 3500
+                        },
+                        "Length of Service": {
+                            "MinLengthOfService": 2
+                        },
+                        "Number of Credited Salaries in ARB": {
+                            "IsBankStatmentRequired": false
+                        },
+                        "Minimum Limit": {
+                            "MinLimit": 2000
+                        },
+                        "Maximum Limit": {
+                            "MaxLimit": 250000,
+                            "IsConsideringHigherLimit": false
+                        },
+                        "Customer Age": {
+                            "MinAge": 21,
+                            "MaxAge": 60
+                        }
+                    },
+                    "Private A": {
+                        "PDBR": {
+                            "PDBR": 0.4
+                        },
+                        "SIMAH Check": {
+                            "NonWriteOff_ProductsStatus": [
+                                "A",
+                                "S"
+                            ],
+                            "WriteOff_NonFinancial_DefaultStatus": [
+                                "PP",
+                                "OS"
+                            ],
+                            "WriteOff_OtherFinancial_DefaultStatus": [
+                                "PP",
+                                "OS"
+                            ],
+                            "NonWriteOff_OtherFinancial_Products": [
+                                "ADFL",
+                                "AMTG",
+                                "AQAR",
+                                "CDC",
+                                "CHC",
+                                "CHCK",
+                                "CRC",
+                                "DPLN",
+                                "EDUF",
+                                "EMTG",
+                                "GFC",
+                                "HDIL",
+                                "IAC",
+                                "IEN",
+                                "ILB",
+                                "IMD",
+                                "IMR",
+                                "IMTG",
+                                "IMV",
+                                "INPR",
+                                "IPR",
+                                "IPS",
+                                "LCRC",
+                                "MGLD",
+                                "MMTG",
+                                "MSKN",
+                                "MTG",
+                                "OMTG",
+                                "PLN",
+                                "POD",
+                                "PRL",
+                                "RERA",
+                                "RMSKN",
+                                "RMTG",
+                                "RPLN",
+                                "RSFM",
+                                "RSMEI",
+                                "RSMEL",
+                                "RVIN",
+                                "RVLS",
+                                "SFB",
+                                "SME",
+                                "SMEI",
+                                "SMEL",
+                                "SMTG",
+                                "STFM",
+                                "TMTG",
+                                "TOD",
+                                "TPLN",
+                                "UNFS",
+                                "VCLM",
+                                "VEHE",
+                                "VESP",
+                                "VIN",
+                                "VLS",
+                                "VRA",
+                                "DSTFM",
+                                "MFL",
+                                "DSA",
+                                "SMS",
+                                "PE",
+                                "COM",
+                                "LEGL",
+                                "MIS"
+                            ],
+                            "WriteOff_NonFinancial_Products": [
+                                "BNPL",
+                                "CDL"
+                            ],
+                            "NonWriteOff_Checking": true,
+                            "NonWriteOff_NonFinancial_Checking": false,
+                            "NonWriteOff_OtherFinancial_Checking": true,
+                            "NonWriteOff_OtherFinancial_MaxConsecutivePayments": 3,
+                            "NonWriteOff_OtherFinancial_ConsecutivePaymentsForgivness": true,
+                            "WriteOff_Checking": true,
+                            "WriteOff_NonFinancial_Checking": true,
+                            "WriteOff_NonFinancial_ToleranceAmount": 20000,
+                            "WriteOff_OtherFinancial_Checking": true,
+                            "WriteOff_OtherFinancial_ToleranceAmount": 5000,
+                            "WriteOff_BouncedCheques_Checking": true,
+                            "WriteOff_BouncedCheques_IsRejected": true,
+                            "WriteOff_BouncedCheques_ClearingPeriod": 6,
+                            "WriteOff_UnExecutedCase_Checking": true,
+                            "WriteOff_RejectIfUnExecutedCase": true,
+                            "SIMAHReport_Validity": 30
+                        },
+                        "Payment Frequency": {
+                            "PaymentFrequency": 1
+                        },
+                        "Income": {
+                            "MinIncome": 3500
+                        },
+                        "Length of Service": {
+                            "MinLengthOfService": 4
+                        },
+                        "Number of Credited Salaries in ARB": {
+                            "IsBankStatmentRequired": false
+                        },
+                        "Minimum Limit": {
+                            "MinLimit": 2000
+                        },
+                        "Maximum Limit": {
+                            "MaxLimit": 250000,
+                            "IsConsideringHigherLimit": false
+                        },
+                        "Customer Age": {
+                            "MinAge": 21,
+                            "MaxAge": 60
+                        }
+                    },
+                    "Private B": {
+                        "PDBR": {
+                            "PDBR": 0.4
+                        },
+                        "SIMAH Check": {
+                            "NonWriteOff_ProductsStatus": [
+                                "A",
+                                "S"
+                            ],
+                            "WriteOff_NonFinancial_DefaultStatus": [
+                                "PP",
+                                "OS"
+                            ],
+                            "WriteOff_OtherFinancial_DefaultStatus": [
+                                "PP",
+                                "OS"
+                            ],
+                            "NonWriteOff_OtherFinancial_Products": [
+                                "ADFL",
+                                "AMTG",
+                                "AQAR",
+                                "CDC",
+                                "CHC",
+                                "CHCK",
+                                "CRC",
+                                "DPLN",
+                                "EDUF",
+                                "EMTG",
+                                "GFC",
+                                "HDIL",
+                                "IAC",
+                                "IEN",
+                                "ILB",
+                                "IMD",
+                                "IMR",
+                                "IMTG",
+                                "IMV",
+                                "INPR",
+                                "IPR",
+                                "IPS",
+                                "LCRC",
+                                "MGLD",
+                                "MMTG",
+                                "MSKN",
+                                "MTG",
+                                "OMTG",
+                                "PLN",
+                                "POD",
+                                "PRL",
+                                "RERA",
+                                "RMSKN",
+                                "RMTG",
+                                "RPLN",
+                                "RSFM",
+                                "RSMEI",
+                                "RSMEL",
+                                "RVIN",
+                                "RVLS",
+                                "SFB",
+                                "SME",
+                                "SMEI",
+                                "SMEL",
+                                "SMTG",
+                                "STFM",
+                                "TMTG",
+                                "TOD",
+                                "TPLN",
+                                "UNFS",
+                                "VCLM",
+                                "VEHE",
+                                "VESP",
+                                "VIN",
+                                "VLS",
+                                "VRA",
+                                "DSTFM",
+                                "MFL",
+                                "DSA",
+                                "SMS",
+                                "PE",
+                                "COM",
+                                "LEGL",
+                                "MIS"
+                            ],
+                            "WriteOff_NonFinancial_Products": [
+                                "BNPL",
+                                "CDL"
+                            ],
+                            "NonWriteOff_Checking": true,
+                            "NonWriteOff_NonFinancial_Checking": false,
+                            "NonWriteOff_OtherFinancial_Checking": true,
+                            "NonWriteOff_OtherFinancial_MaxConsecutivePayments": 3,
+                            "NonWriteOff_OtherFinancial_ConsecutivePaymentsForgivness": true,
+                            "WriteOff_Checking": true,
+                            "WriteOff_NonFinancial_Checking": true,
+                            "WriteOff_NonFinancial_ToleranceAmount": 20000,
+                            "WriteOff_OtherFinancial_Checking": true,
+                            "WriteOff_OtherFinancial_ToleranceAmount": 5000,
+                            "WriteOff_BouncedCheques_Checking": true,
+                            "WriteOff_BouncedCheques_IsRejected": true,
+                            "WriteOff_BouncedCheques_ClearingPeriod": 6,
+                            "WriteOff_UnExecutedCase_Checking": true,
+                            "WriteOff_RejectIfUnExecutedCase": true,
+                            "SIMAHReport_Validity": 30
+                        },
+                        "Payment Frequency": {
+                            "PaymentFrequency": 1
+                        },
+                        "Income": {
+                            "MinIncome": 4000
+                        },
+                        "Length of Service": {
+                            "MinLengthOfService": 4
+                        },
+                        "Number of Credited Salaries in ARB": {
+                            "SubjectedToNumberOfMonth-ARB": 1,
+                            "IsBankStatmentRequired": true,
+                            "NumberOfCreditedSalaries-BankStatment": 2
+                        },
+                        "Minimum Limit": {
+                            "MinLimit": 2000
+                        },
+                        "Maximum Limit": {
+                            "MaxLimit": 150000,
+                            "IsConsideringHigherLimit": false
+                        },
+                        "Customer Age": {
+                            "MinAge": 21,
+                            "MaxAge": 60
+                        }
+                    },
+                    "Private C": {
+                        "PDBR": {
+                            "PDBR": 0.4
+                        },
+                        "SIMAH Check": {
+                            "NonWriteOff_ProductsStatus": [
+                                "A",
+                                "S"
+                            ],
+                            "WriteOff_NonFinancial_DefaultStatus": [
+                                "PP",
+                                "OS"
+                            ],
+                            "WriteOff_OtherFinancial_DefaultStatus": [
+                                "PP",
+                                "OS"
+                            ],
+                            "NonWriteOff_OtherFinancial_Products": [
+                                "ADFL",
+                                "AMTG",
+                                "AQAR",
+                                "CDC",
+                                "CHC",
+                                "CHCK",
+                                "CRC",
+                                "DPLN",
+                                "EDUF",
+                                "EMTG",
+                                "GFC",
+                                "HDIL",
+                                "IAC",
+                                "IEN",
+                                "ILB",
+                                "IMD",
+                                "IMR",
+                                "IMTG",
+                                "IMV",
+                                "INPR",
+                                "IPR",
+                                "IPS",
+                                "LCRC",
+                                "MGLD",
+                                "MMTG",
+                                "MSKN",
+                                "MTG",
+                                "OMTG",
+                                "PLN",
+                                "POD",
+                                "PRL",
+                                "RERA",
+                                "RMSKN",
+                                "RMTG",
+                                "RPLN",
+                                "RSFM",
+                                "RSMEI",
+                                "RSMEL",
+                                "RVIN",
+                                "RVLS",
+                                "SFB",
+                                "SME",
+                                "SMEI",
+                                "SMEL",
+                                "SMTG",
+                                "STFM",
+                                "TMTG",
+                                "TOD",
+                                "TPLN",
+                                "UNFS",
+                                "VCLM",
+                                "VEHE",
+                                "VESP",
+                                "VIN",
+                                "VLS",
+                                "VRA",
+                                "DSTFM",
+                                "MFL",
+                                "DSA",
+                                "SMS",
+                                "PE",
+                                "COM",
+                                "LEGL",
+                                "MIS"
+                            ],
+                            "WriteOff_NonFinancial_Products": [
+                                "BNPL",
+                                "CDL"
+                            ],
+                            "NonWriteOff_Checking": true,
+                            "NonWriteOff_NonFinancial_Checking": false,
+                            "NonWriteOff_OtherFinancial_Checking": true,
+                            "NonWriteOff_OtherFinancial_MaxConsecutivePayments": 3,
+                            "NonWriteOff_OtherFinancial_ConsecutivePaymentsForgivness": true,
+                            "WriteOff_Checking": true,
+                            "WriteOff_NonFinancial_Checking": true,
+                            "WriteOff_NonFinancial_ToleranceAmount": 20000,
+                            "WriteOff_OtherFinancial_Checking": true,
+                            "WriteOff_OtherFinancial_ToleranceAmount": 5000,
+                            "WriteOff_BouncedCheques_Checking": true,
+                            "WriteOff_BouncedCheques_IsRejected": true,
+                            "WriteOff_BouncedCheques_ClearingPeriod": 6,
+                            "WriteOff_UnExecutedCase_Checking": true,
+                            "WriteOff_RejectIfUnExecutedCase": true,
+                            "SIMAHReport_Validity": 30
+                        },
+                        "Payment Frequency": {
+                            "PaymentFrequency": 1
+                        },
+                        "Income": {
+                            "MinIncome": 5500
+                        },
+                        "Length of Service": {
+                            "MinLengthOfService": 4
+                        },
+                        "Number of Credited Salaries in ARB": {
+                            "SubjectedToNumberOfMonth-ARB": 1,
+                            "IsBankStatmentRequired": true,
+                            "NumberOfCreditedSalaries-BankStatment": 2
+                        },
+                        "Minimum Limit": {
+                            "MinLimit": 2000
+                        },
+                        "Maximum Limit": {
+                            "MaxLimit": 150000,
+                            "IsConsideringHigherLimit": false
+                        },
+                        "Customer Age": {
+                            "MinAge": 25,
+                            "MaxAge": 60
+                        }
+                    },
+                    "Private D": {
+                        "PDBR": {
+                            "PDBR": 0.4
+                        },
+                        "SIMAH Check": {
+                            "NonWriteOff_ProductsStatus": [
+                                "A",
+                                "S"
+                            ],
+                            "WriteOff_NonFinancial_DefaultStatus": [
+                                "PP",
+                                "OS"
+                            ],
+                            "WriteOff_OtherFinancial_DefaultStatus": [
+                                "PP",
+                                "OS"
+                            ],
+                            "NonWriteOff_OtherFinancial_Products": [
+                                "ADFL",
+                                "AMTG",
+                                "AQAR",
+                                "CDC",
+                                "CHC",
+                                "CHCK",
+                                "CRC",
+                                "DPLN",
+                                "EDUF",
+                                "EMTG",
+                                "GFC",
+                                "HDIL",
+                                "IAC",
+                                "IEN",
+                                "ILB",
+                                "IMD",
+                                "IMR",
+                                "IMTG",
+                                "IMV",
+                                "INPR",
+                                "IPR",
+                                "IPS",
+                                "LCRC",
+                                "MGLD",
+                                "MMTG",
+                                "MSKN",
+                                "MTG",
+                                "OMTG",
+                                "PLN",
+                                "POD",
+                                "PRL",
+                                "RERA",
+                                "RMSKN",
+                                "RMTG",
+                                "RPLN",
+                                "RSFM",
+                                "RSMEI",
+                                "RSMEL",
+                                "RVIN",
+                                "RVLS",
+                                "SFB",
+                                "SME",
+                                "SMEI",
+                                "SMEL",
+                                "SMTG",
+                                "STFM",
+                                "TMTG",
+                                "TOD",
+                                "TPLN",
+                                "UNFS",
+                                "VCLM",
+                                "VEHE",
+                                "VESP",
+                                "VIN",
+                                "VLS",
+                                "VRA",
+                                "DSTFM",
+                                "MFL",
+                                "DSA",
+                                "SMS",
+                                "PE",
+                                "COM",
+                                "LEGL",
+                                "MIS"
+                            ],
+                            "WriteOff_NonFinancial_Products": [
+                                "BNPL",
+                                "CDL"
+                            ],
+                            "NonWriteOff_Checking": true,
+                            "NonWriteOff_NonFinancial_Checking": false,
+                            "NonWriteOff_OtherFinancial_Checking": true,
+                            "NonWriteOff_OtherFinancial_MaxConsecutivePayments": 3,
+                            "NonWriteOff_OtherFinancial_ConsecutivePaymentsForgivness": true,
+                            "WriteOff_Checking": true,
+                            "WriteOff_NonFinancial_Checking": true,
+                            "WriteOff_NonFinancial_ToleranceAmount": 20000,
+                            "WriteOff_OtherFinancial_Checking": true,
+                            "WriteOff_OtherFinancial_ToleranceAmount": 5000,
+                            "WriteOff_BouncedCheques_Checking": true,
+                            "WriteOff_BouncedCheques_IsRejected": true,
+                            "WriteOff_BouncedCheques_ClearingPeriod": 6,
+                            "WriteOff_UnExecutedCase_Checking": true,
+                            "WriteOff_RejectIfUnExecutedCase": true,
+                            "SIMAHReport_Validity": 30
+                        },
+                        "Payment Frequency": {
+                            "PaymentFrequency": 1
+                        },
+                        "Income": {
+                            "MinIncome": 5500
+                        },
+                        "Length of Service": {
+                            "MinLengthOfService": 4
+                        },
+                        "Number of Credited Salaries in ARB": {
+                            "SubjectedToNumberOfMonth-ARB": 1,
+                            "IsBankStatmentRequired": true,
+                            "NumberOfCreditedSalaries-BankStatment": 2
+                        },
+                        "Minimum Limit": {
+                            "MinLimit": 2000
+                        },
+                        "Maximum Limit": {
+                            "MaxLimit": 150000,
+                            "IsConsideringHigherLimit": false
+                        },
+                        "Customer Age": {
+                            "MinAge": 25,
+                            "MaxAge": 60
+                        }
+                    },
+                    "Non-Approved Employers": {
+                        "PDBR": {
+                            "PDBR": 0.4
+                        },
+                        "SIMAH Check": {
+                            "NonWriteOff_ProductsStatus": [
+                                "A",
+                                "S"
+                            ],
+                            "WriteOff_NonFinancial_DefaultStatus": [
+                                "PP",
+                                "OS"
+                            ],
+                            "WriteOff_OtherFinancial_DefaultStatus": [
+                                "PP",
+                                "OS"
+                            ],
+                            "NonWriteOff_OtherFinancial_Products": [
+                                "ADFL",
+                                "AMTG",
+                                "AQAR",
+                                "CDC",
+                                "CHC",
+                                "CHCK",
+                                "CRC",
+                                "DPLN",
+                                "EDUF",
+                                "EMTG",
+                                "GFC",
+                                "HDIL",
+                                "IAC",
+                                "IEN",
+                                "ILB",
+                                "IMD",
+                                "IMR",
+                                "IMTG",
+                                "IMV",
+                                "INPR",
+                                "IPR",
+                                "IPS",
+                                "LCRC",
+                                "MGLD",
+                                "MMTG",
+                                "MSKN",
+                                "MTG",
+                                "OMTG",
+                                "PLN",
+                                "POD",
+                                "PRL",
+                                "RERA",
+                                "RMSKN",
+                                "RMTG",
+                                "RPLN",
+                                "RSFM",
+                                "RSMEI",
+                                "RSMEL",
+                                "RVIN",
+                                "RVLS",
+                                "SFB",
+                                "SME",
+                                "SMEI",
+                                "SMEL",
+                                "SMTG",
+                                "STFM",
+                                "TMTG",
+                                "TOD",
+                                "TPLN",
+                                "UNFS",
+                                "VCLM",
+                                "VEHE",
+                                "VESP",
+                                "VIN",
+                                "VLS",
+                                "VRA",
+                                "DSTFM",
+                                "MFL",
+                                "DSA",
+                                "SMS",
+                                "PE",
+                                "COM",
+                                "LEGL",
+                                "MIS"
+                            ],
+                            "WriteOff_NonFinancial_Products": [
+                                "BNPL",
+                                "CDL"
+                            ],
+                            "NonWriteOff_Checking": true,
+                            "NonWriteOff_NonFinancial_Checking": false,
+                            "NonWriteOff_OtherFinancial_Checking": true,
+                            "NonWriteOff_OtherFinancial_MaxConsecutivePayments": 3,
+                            "NonWriteOff_OtherFinancial_ConsecutivePaymentsForgivness": true,
+                            "WriteOff_Checking": true,
+                            "WriteOff_NonFinancial_Checking": true,
+                            "WriteOff_NonFinancial_ToleranceAmount": 20000,
+                            "WriteOff_OtherFinancial_Checking": true,
+                            "WriteOff_OtherFinancial_ToleranceAmount": 5000,
+                            "WriteOff_BouncedCheques_Checking": true,
+                            "WriteOff_BouncedCheques_IsRejected": true,
+                            "WriteOff_BouncedCheques_ClearingPeriod": 6,
+                            "WriteOff_UnExecutedCase_Checking": true,
+                            "WriteOff_RejectIfUnExecutedCase": true,
+                            "SIMAHReport_Validity": 30
+                        },
+                        "Payment Frequency": {
+                            "PaymentFrequency": 1
+                        },
+                        "Income": {
+                            "MinIncome": 5500
+                        },
+                        "Length of Service": {
+                            "MinLengthOfService": 7
+                        },
+                        "Number of Credited Salaries in ARB": {
+                            "SubjectedToNumberOfMonth-ARB": 1,
+                            "IsBankStatmentRequired": true,
+                            "NumberOfCreditedSalaries-BankStatment": 2
+                        },
+                        "Minimum Limit": {
+                            "MinLimit": 2000
+                        },
+                        "Maximum Limit": {
+                            "MaxLimit": 50000,
+                            "MaxLimitSalaryFactor": 1.5,
+                            "IsConsideringHigherLimit": false
+                        },
+                        "Customer Age": {
+                            "MinAge": 25,
+                            "MaxAge": 60
+                        }
+                    }
+                },
+                "Non Salary Transfer": {
+                    "Government": {
+                        "PDBR": {
+                            "PDBR": 0.3333
+                        },
+                        "SIMAH Check": {
+                            "NonWriteOff_ProductsStatus": [
+                                "A",
+                                "S"
+                            ],
+                            "WriteOff_NonFinancial_DefaultStatus": [
+                                "PP",
+                                "OS"
+                            ],
+                            "WriteOff_OtherFinancial_DefaultStatus": [
+                                "PP",
+                                "OS"
+                            ],
+                            "NonWriteOff_OtherFinancial_Products": [
+                                "ADFL",
+                                "AMTG",
+                                "AQAR",
+                                "CDC",
+                                "CHC",
+                                "CHCK",
+                                "CRC",
+                                "DPLN",
+                                "EDUF",
+                                "EMTG",
+                                "GFC",
+                                "HDIL",
+                                "IAC",
+                                "IEN",
+                                "ILB",
+                                "IMD",
+                                "IMR",
+                                "IMTG",
+                                "IMV",
+                                "INPR",
+                                "IPR",
+                                "IPS",
+                                "LCRC",
+                                "MGLD",
+                                "MMTG",
+                                "MSKN",
+                                "MTG",
+                                "OMTG",
+                                "PLN",
+                                "POD",
+                                "PRL",
+                                "RERA",
+                                "RMSKN",
+                                "RMTG",
+                                "RPLN",
+                                "RSFM",
+                                "RSMEI",
+                                "RSMEL",
+                                "RVIN",
+                                "RVLS",
+                                "SFB",
+                                "SME",
+                                "SMEI",
+                                "SMEL",
+                                "SMTG",
+                                "STFM",
+                                "TMTG",
+                                "TOD",
+                                "TPLN",
+                                "UNFS",
+                                "VCLM",
+                                "VEHE",
+                                "VESP",
+                                "VIN",
+                                "VLS",
+                                "VRA",
+                                "DSTFM",
+                                "MFL",
+                                "DSA",
+                                "SMS",
+                                "PE",
+                                "COM",
+                                "LEGL",
+                                "MIS"
+                            ],
+                            "WriteOff_NonFinancial_Products": [
+                                "BNPL",
+                                "CDL"
+                            ],
+                            "NonWriteOff_Checking": true,
+                            "NonWriteOff_NonFinancial_Checking": false,
+                            "NonWriteOff_OtherFinancial_Checking": true,
+                            "NonWriteOff_OtherFinancial_MaxConsecutivePayments": 3,
+                            "NonWriteOff_OtherFinancial_ConsecutivePaymentsForgivness": true,
+                            "WriteOff_Checking": true,
+                            "WriteOff_NonFinancial_Checking": true,
+                            "WriteOff_NonFinancial_ToleranceAmount": 20000,
+                            "WriteOff_OtherFinancial_Checking": true,
+                            "WriteOff_OtherFinancial_ToleranceAmount": 5000,
+                            "WriteOff_BouncedCheques_Checking": true,
+                            "WriteOff_BouncedCheques_IsRejected": true,
+                            "WriteOff_BouncedCheques_ClearingPeriod": 6,
+                            "WriteOff_UnExecutedCase_Checking": true,
+                            "WriteOff_RejectIfUnExecutedCase": true,
+                            "SIMAHReport_Validity": 30
+                        },
+                        "Payment Frequency": {
+                            "PaymentFrequency": 1
+                        },
+                        "Income": {
+                            "MinIncome": 4500
+                        },
+                        "Length of Service": {
+                            "MinLengthOfService": 4
+                        },
+                        "Number of Credited Salaries in ARB": {
+                            "IsBankStatmentRequired": false
+                        },
+                        "Minimum Limit": {
+                            "MinLimit": 5000
+                        },
+                        "Maximum Limit": {
+                            "MaxLimit": 150000,
+                            "IsConsideringHigherLimit": false
+                        },
+                        "Customer Age": {
+                            "MinAge": 21,
+                            "MaxAge": 60
+                        }
+                    },
+                    "Semi-Government": {
+                        "PDBR": {
+                            "PDBR": 0.3333
+                        },
+                        "SIMAH Check": {
+                            "NonWriteOff_ProductsStatus": [
+                                "A",
+                                "S"
+                            ],
+                            "WriteOff_NonFinancial_DefaultStatus": [
+                                "PP",
+                                "OS"
+                            ],
+                            "WriteOff_OtherFinancial_DefaultStatus": [
+                                "PP",
+                                "OS"
+                            ],
+                            "NonWriteOff_OtherFinancial_Products": [
+                                "ADFL",
+                                "AMTG",
+                                "AQAR",
+                                "CDC",
+                                "CHC",
+                                "CHCK",
+                                "CRC",
+                                "DPLN",
+                                "EDUF",
+                                "EMTG",
+                                "GFC",
+                                "HDIL",
+                                "IAC",
+                                "IEN",
+                                "ILB",
+                                "IMD",
+                                "IMR",
+                                "IMTG",
+                                "IMV",
+                                "INPR",
+                                "IPR",
+                                "IPS",
+                                "LCRC",
+                                "MGLD",
+                                "MMTG",
+                                "MSKN",
+                                "MTG",
+                                "OMTG",
+                                "PLN",
+                                "POD",
+                                "PRL",
+                                "RERA",
+                                "RMSKN",
+                                "RMTG",
+                                "RPLN",
+                                "RSFM",
+                                "RSMEI",
+                                "RSMEL",
+                                "RVIN",
+                                "RVLS",
+                                "SFB",
+                                "SME",
+                                "SMEI",
+                                "SMEL",
+                                "SMTG",
+                                "STFM",
+                                "TMTG",
+                                "TOD",
+                                "TPLN",
+                                "UNFS",
+                                "VCLM",
+                                "VEHE",
+                                "VESP",
+                                "VIN",
+                                "VLS",
+                                "VRA",
+                                "DSTFM",
+                                "MFL",
+                                "DSA",
+                                "SMS",
+                                "PE",
+                                "COM",
+                                "LEGL",
+                                "MIS"
+                            ],
+                            "WriteOff_NonFinancial_Products": [
+                                "BNPL",
+                                "CDL"
+                            ],
+                            "NonWriteOff_Checking": true,
+                            "NonWriteOff_NonFinancial_Checking": false,
+                            "NonWriteOff_OtherFinancial_Checking": true,
+                            "NonWriteOff_OtherFinancial_MaxConsecutivePayments": 3,
+                            "NonWriteOff_OtherFinancial_ConsecutivePaymentsForgivness": true,
+                            "WriteOff_Checking": true,
+                            "WriteOff_NonFinancial_Checking": true,
+                            "WriteOff_NonFinancial_ToleranceAmount": 20000,
+                            "WriteOff_OtherFinancial_Checking": true,
+                            "WriteOff_OtherFinancial_ToleranceAmount": 5000,
+                            "WriteOff_BouncedCheques_Checking": true,
+                            "WriteOff_BouncedCheques_IsRejected": true,
+                            "WriteOff_BouncedCheques_ClearingPeriod": 6,
+                            "WriteOff_UnExecutedCase_Checking": true,
+                            "WriteOff_RejectIfUnExecutedCase": true,
+                            "SIMAHReport_Validity": 30
+                        },
+                        "Payment Frequency": {
+                            "PaymentFrequency": 1
+                        },
+                        "Income": {
+                            "MinIncome": 4500
+                        },
+                        "Length of Service": {
+                            "MinLengthOfService": 4
+                        },
+                        "Number of Credited Salaries in ARB": {
+                            "IsBankStatmentRequired": false
+                        },
+                        "Minimum Limit": {
+                            "MinLimit": 5000
+                        },
+                        "Maximum Limit": {
+                            "MaxLimit": 150000,
+                            "IsConsideringHigherLimit": false
+                        },
+                        "Customer Age": {
+                            "MinAge": 21,
+                            "MaxAge": 60
+                        }
+                    },
+                    "Private A": {
+                        "PDBR": {
+                            "PDBR": 0.3333
+                        },
+                        "SIMAH Check": {
+                            "NonWriteOff_ProductsStatus": [
+                                "A",
+                                "S"
+                            ],
+                            "WriteOff_NonFinancial_DefaultStatus": [
+                                "PP",
+                                "OS"
+                            ],
+                            "WriteOff_OtherFinancial_DefaultStatus": [
+                                "PP",
+                                "OS"
+                            ],
+                            "NonWriteOff_OtherFinancial_Products": [
+                                "ADFL",
+                                "AMTG",
+                                "AQAR",
+                                "CDC",
+                                "CHC",
+                                "CHCK",
+                                "CRC",
+                                "DPLN",
+                                "EDUF",
+                                "EMTG",
+                                "GFC",
+                                "HDIL",
+                                "IAC",
+                                "IEN",
+                                "ILB",
+                                "IMD",
+                                "IMR",
+                                "IMTG",
+                                "IMV",
+                                "INPR",
+                                "IPR",
+                                "IPS",
+                                "LCRC",
+                                "MGLD",
+                                "MMTG",
+                                "MSKN",
+                                "MTG",
+                                "OMTG",
+                                "PLN",
+                                "POD",
+                                "PRL",
+                                "RERA",
+                                "RMSKN",
+                                "RMTG",
+                                "RPLN",
+                                "RSFM",
+                                "RSMEI",
+                                "RSMEL",
+                                "RVIN",
+                                "RVLS",
+                                "SFB",
+                                "SME",
+                                "SMEI",
+                                "SMEL",
+                                "SMTG",
+                                "STFM",
+                                "TMTG",
+                                "TOD",
+                                "TPLN",
+                                "UNFS",
+                                "VCLM",
+                                "VEHE",
+                                "VESP",
+                                "VIN",
+                                "VLS",
+                                "VRA",
+                                "DSTFM",
+                                "MFL",
+                                "DSA",
+                                "SMS",
+                                "PE",
+                                "COM",
+                                "LEGL",
+                                "MIS"
+                            ],
+                            "WriteOff_NonFinancial_Products": [
+                                "BNPL",
+                                "CDL"
+                            ],
+                            "NonWriteOff_Checking": true,
+                            "NonWriteOff_NonFinancial_Checking": false,
+                            "NonWriteOff_OtherFinancial_Checking": true,
+                            "NonWriteOff_OtherFinancial_MaxConsecutivePayments": 3,
+                            "NonWriteOff_OtherFinancial_ConsecutivePaymentsForgivness": true,
+                            "WriteOff_Checking": true,
+                            "WriteOff_NonFinancial_Checking": true,
+                            "WriteOff_NonFinancial_ToleranceAmount": 20000,
+                            "WriteOff_OtherFinancial_Checking": true,
+                            "WriteOff_OtherFinancial_ToleranceAmount": 5000,
+                            "WriteOff_BouncedCheques_Checking": true,
+                            "WriteOff_BouncedCheques_IsRejected": true,
+                            "WriteOff_BouncedCheques_ClearingPeriod": 6,
+                            "WriteOff_UnExecutedCase_Checking": true,
+                            "WriteOff_RejectIfUnExecutedCase": true,
+                            "SIMAHReport_Validity": 30
+                        },
+                        "Payment Frequency": {
+                            "PaymentFrequency": 1
+                        },
+                        "Income": {
+                            "MinIncome": 4500
+                        },
+                        "Length of Service": {
+                            "MinLengthOfService": 6
+                        },
+                        "Number of Credited Salaries in ARB": {
+                            "IsBankStatmentRequired": false
+                        },
+                        "Minimum Limit": {
+                            "MinLimit": 5000
+                        },
+                        "Maximum Limit": {
+                            "MaxLimit": 150000,
+                            "IsConsideringHigherLimit": false
+                        },
+                        "Customer Age": {
+                            "MinAge": 21,
+                            "MaxAge": 60
+                        }
+                    },
+                    "Private B": {
+                        "PDBR": {
+                            "PDBR": 0.3333
+                        },
+                        "SIMAH Check": {
+                            "NonWriteOff_ProductsStatus": [
+                                "A",
+                                "S"
+                            ],
+                            "WriteOff_NonFinancial_DefaultStatus": [
+                                "PP",
+                                "OS"
+                            ],
+                            "WriteOff_OtherFinancial_DefaultStatus": [
+                                "PP",
+                                "OS"
+                            ],
+                            "NonWriteOff_OtherFinancial_Products": [
+                                "ADFL",
+                                "AMTG",
+                                "AQAR",
+                                "CDC",
+                                "CHC",
+                                "CHCK",
+                                "CRC",
+                                "DPLN",
+                                "EDUF",
+                                "EMTG",
+                                "GFC",
+                                "HDIL",
+                                "IAC",
+                                "IEN",
+                                "ILB",
+                                "IMD",
+                                "IMR",
+                                "IMTG",
+                                "IMV",
+                                "INPR",
+                                "IPR",
+                                "IPS",
+                                "LCRC",
+                                "MGLD",
+                                "MMTG",
+                                "MSKN",
+                                "MTG",
+                                "OMTG",
+                                "PLN",
+                                "POD",
+                                "PRL",
+                                "RERA",
+                                "RMSKN",
+                                "RMTG",
+                                "RPLN",
+                                "RSFM",
+                                "RSMEI",
+                                "RSMEL",
+                                "RVIN",
+                                "RVLS",
+                                "SFB",
+                                "SME",
+                                "SMEI",
+                                "SMEL",
+                                "SMTG",
+                                "STFM",
+                                "TMTG",
+                                "TOD",
+                                "TPLN",
+                                "UNFS",
+                                "VCLM",
+                                "VEHE",
+                                "VESP",
+                                "VIN",
+                                "VLS",
+                                "VRA",
+                                "DSTFM",
+                                "MFL",
+                                "DSA",
+                                "SMS",
+                                "PE",
+                                "COM",
+                                "LEGL",
+                                "MIS"
+                            ],
+                            "WriteOff_NonFinancial_Products": [
+                                "BNPL",
+                                "CDL"
+                            ],
+                            "NonWriteOff_Checking": true,
+                            "NonWriteOff_NonFinancial_Checking": false,
+                            "NonWriteOff_OtherFinancial_Checking": true,
+                            "NonWriteOff_OtherFinancial_MaxConsecutivePayments": 3,
+                            "NonWriteOff_OtherFinancial_ConsecutivePaymentsForgivness": true,
+                            "WriteOff_Checking": true,
+                            "WriteOff_NonFinancial_Checking": true,
+                            "WriteOff_NonFinancial_ToleranceAmount": 20000,
+                            "WriteOff_OtherFinancial_Checking": true,
+                            "WriteOff_OtherFinancial_ToleranceAmount": 5000,
+                            "WriteOff_BouncedCheques_Checking": true,
+                            "WriteOff_BouncedCheques_IsRejected": true,
+                            "WriteOff_BouncedCheques_ClearingPeriod": 6,
+                            "WriteOff_UnExecutedCase_Checking": true,
+                            "WriteOff_RejectIfUnExecutedCase": true,
+                            "SIMAHReport_Validity": 30
+                        },
+                        "Payment Frequency": {
+                            "PaymentFrequency": 1
+                        },
+                        "Income": {
+                            "MinIncome": 5000
+                        },
+                        "Length of Service": {
+                            "MinLengthOfService": 6
+                        },
+                        "Number of Credited Salaries in ARB": {
+                            "SubjectedToNumberOfMonth-ARB": 1,
+                            "IsBankStatmentRequired": true,
+                            "NumberOfCreditedSalaries-BankStatment": 2
+                        },
+                        "Minimum Limit": {
+                            "MinLimit": 5000
+                        },
+                        "Maximum Limit": {
+                            "MaxLimit": 50000,
+                            "IsConsideringHigherLimit": false
+                        },
+                        "Customer Age": {
+                            "MinAge": 21,
+                            "MaxAge": 60
+                        }
+                    },
+                    "Private C": {
+                        "PDBR": {
+                            "PDBR": 0.3333
+                        },
+                        "SIMAH Check": {
+                            "NonWriteOff_ProductsStatus": [
+                                "A",
+                                "S"
+                            ],
+                            "WriteOff_NonFinancial_DefaultStatus": [
+                                "PP",
+                                "OS"
+                            ],
+                            "WriteOff_OtherFinancial_DefaultStatus": [
+                                "PP",
+                                "OS"
+                            ],
+                            "NonWriteOff_OtherFinancial_Products": [
+                                "ADFL",
+                                "AMTG",
+                                "AQAR",
+                                "CDC",
+                                "CHC",
+                                "CHCK",
+                                "CRC",
+                                "DPLN",
+                                "EDUF",
+                                "EMTG",
+                                "GFC",
+                                "HDIL",
+                                "IAC",
+                                "IEN",
+                                "ILB",
+                                "IMD",
+                                "IMR",
+                                "IMTG",
+                                "IMV",
+                                "INPR",
+                                "IPR",
+                                "IPS",
+                                "LCRC",
+                                "MGLD",
+                                "MMTG",
+                                "MSKN",
+                                "MTG",
+                                "OMTG",
+                                "PLN",
+                                "POD",
+                                "PRL",
+                                "RERA",
+                                "RMSKN",
+                                "RMTG",
+                                "RPLN",
+                                "RSFM",
+                                "RSMEI",
+                                "RSMEL",
+                                "RVIN",
+                                "RVLS",
+                                "SFB",
+                                "SME",
+                                "SMEI",
+                                "SMEL",
+                                "SMTG",
+                                "STFM",
+                                "TMTG",
+                                "TOD",
+                                "TPLN",
+                                "UNFS",
+                                "VCLM",
+                                "VEHE",
+                                "VESP",
+                                "VIN",
+                                "VLS",
+                                "VRA",
+                                "DSTFM",
+                                "MFL",
+                                "DSA",
+                                "SMS",
+                                "PE",
+                                "COM",
+                                "LEGL",
+                                "MIS"
+                            ],
+                            "WriteOff_NonFinancial_Products": [
+                                "BNPL",
+                                "CDL"
+                            ],
+                            "NonWriteOff_Checking": true,
+                            "NonWriteOff_NonFinancial_Checking": false,
+                            "NonWriteOff_OtherFinancial_Checking": true,
+                            "NonWriteOff_OtherFinancial_MaxConsecutivePayments": 3,
+                            "NonWriteOff_OtherFinancial_ConsecutivePaymentsForgivness": true,
+                            "WriteOff_Checking": true,
+                            "WriteOff_NonFinancial_Checking": true,
+                            "WriteOff_NonFinancial_ToleranceAmount": 20000,
+                            "WriteOff_OtherFinancial_Checking": true,
+                            "WriteOff_OtherFinancial_ToleranceAmount": 5000,
+                            "WriteOff_BouncedCheques_Checking": true,
+                            "WriteOff_BouncedCheques_IsRejected": true,
+                            "WriteOff_BouncedCheques_ClearingPeriod": 6,
+                            "WriteOff_UnExecutedCase_Checking": true,
+                            "WriteOff_RejectIfUnExecutedCase": true,
+                            "SIMAHReport_Validity": 30
+                        },
+                        "Payment Frequency": {
+                            "PaymentFrequency": 1
+                        },
+                        "Income": {
+                            "MinIncome": 6500
+                        },
+                        "Length of Service": {
+                            "MinLengthOfService": 6
+                        },
+                        "Number of Credited Salaries in ARB": {
+                            "SubjectedToNumberOfMonth-ARB": 1,
+                            "IsBankStatmentRequired": true,
+                            "NumberOfCreditedSalaries-BankStatment": 2
+                        },
+                        "Minimum Limit": {
+                            "MinLimit": 5000
+                        },
+                        "Maximum Limit": {
+                            "MaxLimit": 50000,
+                            "IsConsideringHigherLimit": false
+                        },
+                        "Customer Age": {
+                            "MinAge": 25,
+                            "MaxAge": 60
+                        }
+                    },
+                    "Private D": {
+                        "PDBR": {
+                            "PDBR": 0.3333
+                        },
+                        "SIMAH Check": {
+                            "NonWriteOff_ProductsStatus": [
+                                "A",
+                                "S"
+                            ],
+                            "WriteOff_NonFinancial_DefaultStatus": [
+                                "PP",
+                                "OS"
+                            ],
+                            "WriteOff_OtherFinancial_DefaultStatus": [
+                                "PP",
+                                "OS"
+                            ],
+                            "NonWriteOff_OtherFinancial_Products": [
+                                "ADFL",
+                                "AMTG",
+                                "AQAR",
+                                "CDC",
+                                "CHC",
+                                "CHCK",
+                                "CRC",
+                                "DPLN",
+                                "EDUF",
+                                "EMTG",
+                                "GFC",
+                                "HDIL",
+                                "IAC",
+                                "IEN",
+                                "ILB",
+                                "IMD",
+                                "IMR",
+                                "IMTG",
+                                "IMV",
+                                "INPR",
+                                "IPR",
+                                "IPS",
+                                "LCRC",
+                                "MGLD",
+                                "MMTG",
+                                "MSKN",
+                                "MTG",
+                                "OMTG",
+                                "PLN",
+                                "POD",
+                                "PRL",
+                                "RERA",
+                                "RMSKN",
+                                "RMTG",
+                                "RPLN",
+                                "RSFM",
+                                "RSMEI",
+                                "RSMEL",
+                                "RVIN",
+                                "RVLS",
+                                "SFB",
+                                "SME",
+                                "SMEI",
+                                "SMEL",
+                                "SMTG",
+                                "STFM",
+                                "TMTG",
+                                "TOD",
+                                "TPLN",
+                                "UNFS",
+                                "VCLM",
+                                "VEHE",
+                                "VESP",
+                                "VIN",
+                                "VLS",
+                                "VRA",
+                                "DSTFM",
+                                "MFL",
+                                "DSA",
+                                "SMS",
+                                "PE",
+                                "COM",
+                                "LEGL",
+                                "MIS"
+                            ],
+                            "WriteOff_NonFinancial_Products": [
+                                "BNPL",
+                                "CDL"
+                            ],
+                            "NonWriteOff_Checking": true,
+                            "NonWriteOff_NonFinancial_Checking": false,
+                            "NonWriteOff_OtherFinancial_Checking": true,
+                            "NonWriteOff_OtherFinancial_MaxConsecutivePayments": 3,
+                            "NonWriteOff_OtherFinancial_ConsecutivePaymentsForgivness": true,
+                            "WriteOff_Checking": true,
+                            "WriteOff_NonFinancial_Checking": true,
+                            "WriteOff_NonFinancial_ToleranceAmount": 20000,
+                            "WriteOff_OtherFinancial_Checking": true,
+                            "WriteOff_OtherFinancial_ToleranceAmount": 5000,
+                            "WriteOff_BouncedCheques_Checking": true,
+                            "WriteOff_BouncedCheques_IsRejected": true,
+                            "WriteOff_BouncedCheques_ClearingPeriod": 6,
+                            "WriteOff_UnExecutedCase_Checking": true,
+                            "WriteOff_RejectIfUnExecutedCase": true,
+                            "SIMAHReport_Validity": 30
+                        },
+                        "Payment Frequency": {
+                            "PaymentFrequency": 1
+                        },
+                        "Income": {
+                            "MinIncome": 6500
+                        },
+                        "Length of Service": {
+                            "MinLengthOfService": 6
+                        },
+                        "Number of Credited Salaries in ARB": {
+                            "SubjectedToNumberOfMonth-ARB": 1,
+                            "IsBankStatmentRequired": true,
+                            "NumberOfCreditedSalaries-BankStatment": 2
+                        },
+                        "Minimum Limit": {
+                            "MinLimit": 5000
+                        },
+                        "Maximum Limit": {
+                            "MaxLimit": 50000,
+                            "IsConsideringHigherLimit": false
+                        },
+                        "Customer Age": {
+                            "MinAge": 25,
+                            "MaxAge": 60
+                        }
+                    },
+                    "Non-Approved Employers": {
+                        "PDBR": {
+                            "PDBR": 0.3333
+                        },
+                        "SIMAH Check": {
+                            "NonWriteOff_ProductsStatus": [
+                                "A",
+                                "S"
+                            ],
+                            "WriteOff_NonFinancial_DefaultStatus": [
+                                "PP",
+                                "OS"
+                            ],
+                            "WriteOff_OtherFinancial_DefaultStatus": [
+                                "PP",
+                                "OS"
+                            ],
+                            "NonWriteOff_OtherFinancial_Products": [
+                                "ADFL",
+                                "AMTG",
+                                "AQAR",
+                                "CDC",
+                                "CHC",
+                                "CHCK",
+                                "CRC",
+                                "DPLN",
+                                "EDUF",
+                                "EMTG",
+                                "GFC",
+                                "HDIL",
+                                "IAC",
+                                "IEN",
+                                "ILB",
+                                "IMD",
+                                "IMR",
+                                "IMTG",
+                                "IMV",
+                                "INPR",
+                                "IPR",
+                                "IPS",
+                                "LCRC",
+                                "MGLD",
+                                "MMTG",
+                                "MSKN",
+                                "MTG",
+                                "OMTG",
+                                "PLN",
+                                "POD",
+                                "PRL",
+                                "RERA",
+                                "RMSKN",
+                                "RMTG",
+                                "RPLN",
+                                "RSFM",
+                                "RSMEI",
+                                "RSMEL",
+                                "RVIN",
+                                "RVLS",
+                                "SFB",
+                                "SME",
+                                "SMEI",
+                                "SMEL",
+                                "SMTG",
+                                "STFM",
+                                "TMTG",
+                                "TOD",
+                                "TPLN",
+                                "UNFS",
+                                "VCLM",
+                                "VEHE",
+                                "VESP",
+                                "VIN",
+                                "VLS",
+                                "VRA",
+                                "DSTFM",
+                                "MFL",
+                                "DSA",
+                                "SMS",
+                                "PE",
+                                "COM",
+                                "LEGL",
+                                "MIS"
+                            ],
+                            "WriteOff_NonFinancial_Products": [
+                                "BNPL",
+                                "CDL"
+                            ],
+                            "NonWriteOff_Checking": true,
+                            "NonWriteOff_NonFinancial_Checking": false,
+                            "NonWriteOff_OtherFinancial_Checking": true,
+                            "NonWriteOff_OtherFinancial_MaxConsecutivePayments": 3,
+                            "NonWriteOff_OtherFinancial_ConsecutivePaymentsForgivness": true,
+                            "WriteOff_Checking": true,
+                            "WriteOff_NonFinancial_Checking": true,
+                            "WriteOff_NonFinancial_ToleranceAmount": 20000,
+                            "WriteOff_OtherFinancial_Checking": true,
+                            "WriteOff_OtherFinancial_ToleranceAmount": 5000,
+                            "WriteOff_BouncedCheques_Checking": true,
+                            "WriteOff_BouncedCheques_IsRejected": true,
+                            "WriteOff_BouncedCheques_ClearingPeriod": 6,
+                            "WriteOff_UnExecutedCase_Checking": true,
+                            "WriteOff_RejectIfUnExecutedCase": true,
+                            "SIMAHReport_Validity": 30
+                        },
+                        "Payment Frequency": {
+                            "PaymentFrequency": 1
+                        },
+                        "Income": {
+                            "MinIncome": 6500
+                        },
+                        "Length of Service": {
+                            "MinLengthOfService": 9
+                        },
+                        "Number of Credited Salaries in ARB": {
+                            "SubjectedToNumberOfMonth-ARB": 1,
+                            "IsBankStatmentRequired": true,
+                            "NumberOfCreditedSalaries-BankStatment": 2
+                        },
+                        "Minimum Limit": {
+                            "MinLimit": 5000
+                        },
+                        "Maximum Limit": {
+                            "MaxLimit": 25000,
+                            "MaxLimitSalaryFactor": 1,
+                            "IsConsideringHigherLimit": false
+                        },
+                        "Customer Age": {
+                            "MinAge": 25,
+                            "MaxAge": 60
+                        }
+                    }
+                }
+            }
+        },
+        "MetaData": {
+            "Description & Features": "A facility to purchase goods and services using a plastic card bearing an account number assigned to the cardholder. The bank's exposure is limited to the charge limit assigned to the cardholder. Minimum payment of the outstanding balance is required to be made on the payment due date.",
+            "Profit Rate": "Segment & Risk-Based Pricing",
+            "Target Segment": "The target segment is Salary Transfer, Non Salary Transfer  Saudi customers and Non Saudi Customers"
+        }
+    },
+    "validationResults": {
+        "validationErrors": [],
+        "warnings": []
+    }
+}
